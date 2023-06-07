@@ -1,5 +1,5 @@
 {
-  "result_log_url": "https://davewhiteland.github.io/race-data-test/rhul/02/race-2-second-race-results.json",
+  "result_log_url": "https://davewhiteland.github.io/race-data-test/rhul/02/race-6-second-race-results.json",
   "title": "Second race",
   "description": "A twisty bumpy track elsewhere in the desert.",
   "cost_limit": 240,
@@ -7,7 +7,7 @@
   "lap_length": 528,
   "track_image_url": "https://davewhiteland.github.io/race-data-test/rhul/02/racetrack-04.jpg",
   "track_svg_url": "https://davewhiteland.github.io/race-data-test/rhul/02/racetrack-04-path-528.svg",
-  "race_log_url": "https://davewhiteland.github.io/race-data-test/rhul/02/race-2-second-race-events.json",
+  "race_log_url": "https://davewhiteland.github.io/race-data-test/rhul/02/race-6-second-race-events.json",
   "buggies_csv_url": "",
   "raced_at": "2023-06-06 18:50",
   "league": "",
