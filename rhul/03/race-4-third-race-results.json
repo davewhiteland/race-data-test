@@ -1,0 +1,100 @@
+{
+  "result_log_url": "https://davewhiteland.github.io/race-data-test/rhul/03/race-4-third-race-results.json",
+  "title": "Third race",
+  "description": "Multiple laps on a remote rocky desert race track in a race for expensive buggies with plenty of fuel.",
+  "cost_limit": 420,
+  "max_laps": 3,
+  "track_image_url": "https://davewhiteland.github.io/race-data-test/rhul/03/racetrack-03.jpg",
+  "track_svg_url": "https://davewhiteland.github.io/race-data-test/rhul/03/racetrack-03-path-429.svg",
+  "race_log_url": "https://davewhiteland.github.io/race-data-test/rhul/03/race-4-third-race-events.json",
+  "buggies_csv_url": "race-3-buggies.csv",
+  "raced_at": "2023-06-07 13:51:30",
+  "league": "",
+  "start_at": "2023-06-06 22:58",
+  "buggies_entered": 8,
+  "buggies_started": 7,
+  "buggies_finished": 2,
+  "results": [
+    {
+      "username": "charlotte",
+      "user_id": 25,
+      "flag_color": "white",
+      "flag_color_secondary": "red",
+      "flag_pattern": "check",
+      "cost": 4590,
+      "race_position": -1,
+      "violations_str": "RACE_COST_THRESHOLD"
+    },
+    {
+      "username": "joshua",
+      "user_id": 31,
+      "flag_color": "#b30000",
+      "flag_color_secondary": "#000000",
+      "flag_pattern": "check",
+      "cost": 263,
+      "race_position": 1,
+      "violations_str": ""
+    },
+    {
+      "username": "wei-san",
+      "user_id": 11,
+      "flag_color": "#d6009d",
+      "flag_color_secondary": "#000000",
+      "flag_pattern": "check",
+      "cost": 420,
+      "race_position": 2,
+      "violations_str": ""
+    },
+    {
+      "username": "mustafa",
+      "user_id": 9,
+      "flag_color": "white",
+      "flag_color_secondary": "black",
+      "flag_pattern": "plain",
+      "cost": 64,
+      "race_position": 3,
+      "violations_str": ""
+    },
+    {
+      "username": "sahal",
+      "user_id": 51,
+      "flag_color": "white",
+      "flag_color_secondary": "black",
+      "flag_pattern": "plain",
+      "cost": 64,
+      "race_position": 4,
+      "violations_str": ""
+    },
+    {
+      "username": "connor",
+      "user_id": 20,
+      "flag_color": "white",
+      "flag_color_secondary": "black",
+      "flag_pattern": "plain",
+      "cost": 64,
+      "race_position": 5,
+      "violations_str": ""
+    },
+    {
+      "username": "isaac",
+      "user_id": 26,
+      "flag_color": "blue",
+      "flag_color_secondary": "black",
+      "flag_pattern": "plain",
+      "cost": 64,
+      "race_position": 6,
+      "violations_str": ""
+    },
+    {
+      "username": "natashah",
+      "user_id": 23,
+      "flag_color": "blue",
+      "flag_color_secondary": "red",
+      "flag_pattern": "check",
+      "cost": 96,
+      "race_position": 7,
+      "violations_str": ""
+    }
+  ],
+  "version": "1.0"
+}
