@@ -13,9 +13,19 @@
   "league": "",
   "start_at": "2023-06-05 23:58",
   "buggies_entered": 6,
-  "buggies_started": 5,
+  "buggies_started": 4,
   "buggies_finished": 1,
   "results": [
+    {
+      "username": "joshua",
+      "user_id": 31,
+      "flag_color": "#b30000",
+      "flag_color_secondary": "#000000",
+      "flag_pattern": "check",
+      "cost": 263,
+      "race_position": -1,
+      "violations_str": "RACE_COST_THRESHOLD"
+    },
     {
       "username": "charlotte",
       "user_id": 25,
@@ -27,12 +37,12 @@
       "violations_str": "RACE_COST_THRESHOLD"
     },
     {
-      "username": "joshua",
-      "user_id": 31,
-      "flag_color": "#b30000",
-      "flag_color_secondary": "#000000",
-      "flag_pattern": "check",
-      "cost": 263,
+      "username": "wei-san",
+      "user_id": 11,
+      "flag_color": "#d6009d",
+      "flag_color_secondary": "black",
+      "flag_pattern": "plain",
+      "cost": 232,
       "race_position": 1,
       "violations_str": ""
     },
@@ -57,23 +67,13 @@
       "violations_str": ""
     },
     {
-      "username": "wei-san",
-      "user_id": 11,
-      "flag_color": "white",
-      "flag_color_secondary": "black",
-      "flag_pattern": "plain",
-      "cost": 64,
-      "race_position": 4,
-      "violations_str": ""
-    },
-    {
       "username": "natashah",
       "user_id": 23,
       "flag_color": "blue",
       "flag_color_secondary": "red",
       "flag_pattern": "check",
       "cost": 116,
-      "race_position": 5,
+      "race_position": 4,
       "violations_str": ""
     }
   ],
