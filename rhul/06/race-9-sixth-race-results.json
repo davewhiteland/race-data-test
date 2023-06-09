@@ -1,0 +1,180 @@
+{
+  "result_log_url": "https://davewhiteland.github.io/race-data-test/rhul/06/race-9-sixth-race-results.json",
+  "title": "Sixth Race",
+  "description": "Back on the initial track: an endurance 4-lap race, with generous budget.",
+  "cost_limit": 500,
+  "max_laps": 4,
+  "track_image_url": "https://davewhiteland.github.io/race-data-test/rhul/06/racetrack-01-background.jpg",
+  "track_svg_url": "https://davewhiteland.github.io/race-data-test/rhul/06/racetrack-01-path.svg",
+  "race_log_url": "https://davewhiteland.github.io/race-data-test/rhul/06/race-9-sixth-race-events.json",
+  "buggies_csv_url": "buggies-6.csv",
+  "raced_at": "2023-06-09 23:06:11",
+  "league": "",
+  "start_at": "2023-06-09 23:58",
+  "buggies_entered": 16,
+  "buggies_started": 13,
+  "buggies_finished": 3,
+  "results": [
+    {
+      "username": "liv",
+      "user_id": 43,
+      "flag_color": "red",
+      "flag_color_secondary": "black",
+      "flag_pattern": "spot",
+      "cost": 334,
+      "race_position": -1,
+      "violations_str": "ENOUGH_TYRES"
+    },
+    {
+      "username": "taroon",
+      "user_id": 13,
+      "flag_color": "black",
+      "flag_color_secondary": "black",
+      "flag_pattern": "plain",
+      "cost": 540,
+      "race_position": -1,
+      "violations_str": "RACE_COST_THRESHOLD,IS_POWERED"
+    },
+    {
+      "username": "charlotte",
+      "user_id": 25,
+      "flag_color": "white",
+      "flag_color_secondary": "red",
+      "flag_pattern": "check",
+      "cost": 4590,
+      "race_position": -1,
+      "violations_str": "RACE_COST_THRESHOLD"
+    },
+    {
+      "username": "william",
+      "user_id": 18,
+      "flag_color": "purple",
+      "flag_color_secondary": "black",
+      "flag_pattern": "spot",
+      "cost": 498,
+      "race_position": 1,
+      "violations_str": ""
+    },
+    {
+      "username": "joshua",
+      "user_id": 31,
+      "flag_color": "#b30000",
+      "flag_color_secondary": "#000000",
+      "flag_pattern": "check",
+      "cost": 263,
+      "race_position": 2,
+      "violations_str": ""
+    },
+    {
+      "username": "wei-san",
+      "user_id": 11,
+      "flag_color": "#d6009d",
+      "flag_color_secondary": "#000000",
+      "flag_pattern": "check",
+      "cost": 420,
+      "race_position": 3,
+      "violations_str": ""
+    },
+    {
+      "username": "arbaaz",
+      "user_id": 15,
+      "flag_color": "red",
+      "flag_color_secondary": "black",
+      "flag_pattern": "spot",
+      "cost": 100,
+      "race_position": 4,
+      "violations_str": ""
+    },
+    {
+      "username": "connor",
+      "user_id": 20,
+      "flag_color": "red",
+      "flag_color_secondary": "black",
+      "flag_pattern": "plain",
+      "cost": 64,
+      "race_position": 5,
+      "violations_str": ""
+    },
+    {
+      "username": "talha",
+      "user_id": 27,
+      "flag_color": "white",
+      "flag_color_secondary": "black",
+      "flag_pattern": "plain",
+      "cost": 64,
+      "race_position": 6,
+      "violations_str": ""
+    },
+    {
+      "username": "isaac",
+      "user_id": 26,
+      "flag_color": "blue",
+      "flag_color_secondary": "black",
+      "flag_pattern": "plain",
+      "cost": 64,
+      "race_position": 7,
+      "violations_str": ""
+    },
+    {
+      "username": "mustafa",
+      "user_id": 9,
+      "flag_color": "white",
+      "flag_color_secondary": "black",
+      "flag_pattern": "plain",
+      "cost": 64,
+      "race_position": 8,
+      "violations_str": ""
+    },
+    {
+      "username": "sahal",
+      "user_id": 51,
+      "flag_color": "white",
+      "flag_color_secondary": "black",
+      "flag_pattern": "plain",
+      "cost": 64,
+      "race_position": 9,
+      "violations_str": ""
+    },
+    {
+      "username": "kacper",
+      "user_id": 14,
+      "flag_color": "purple",
+      "flag_color_secondary": "blue",
+      "flag_pattern": "dstripe",
+      "cost": 76,
+      "race_position": 10,
+      "violations_str": ""
+    },
+    {
+      "username": "natashah",
+      "user_id": 23,
+      "flag_color": "blue",
+      "flag_color_secondary": "red",
+      "flag_pattern": "check",
+      "cost": 96,
+      "race_position": 11,
+      "violations_str": ""
+    },
+    {
+      "username": "hamza1",
+      "user_id": 19,
+      "flag_color": "blue",
+      "flag_color_secondary": "purple",
+      "flag_pattern": "check",
+      "cost": 103,
+      "race_position": 12,
+      "violations_str": ""
+    },
+    {
+      "username": "edry",
+      "user_id": 55,
+      "flag_color": "white",
+      "flag_color_secondary": "black",
+      "flag_pattern": "plain",
+      "cost": 60,
+      "race_position": 13,
+      "violations_str": ""
+    }
+  ],
+  "version": "1.0"
+}

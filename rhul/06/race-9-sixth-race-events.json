@@ -1,0 +1,5935 @@
+{
+ "events": [
+    [
+        {
+          "b": "mustafa",
+          "d": 13.0
+        },
+        {
+          "b": "edry",
+          "s": "is out of power (and has no auxillary power)"
+        },
+        {
+          "b": "talha",
+          "d": 14.0
+        },
+        {
+          "b": "connor",
+          "d": 17.0
+        },
+        {
+          "b": "hamza1",
+          "d": 3.0
+        },
+        {
+          "b": "joshua",
+          "d": 12.0
+        },
+        {
+          "b": "william",
+          "d": 26.0
+        },
+        {
+          "b": "wei-san",
+          "d": 7.0
+        },
+        {
+          "b": "sahal",
+          "d": 8.0
+        },
+        {
+          "b": "natashah",
+          "d": 25.0
+        },
+        {
+          "b": "isaac",
+          "d": 12.0
+        },
+        {
+          "b": "kacper",
+          "d": 29.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 13.0
+        },
+        {
+          "b": "talha",
+          "d": 14.0
+        },
+        {
+          "b": "connor",
+          "d": 12.0
+        },
+        {
+          "b": "hamza1",
+          "d": 8.0
+        },
+        {
+          "b": "joshua",
+          "d": 7.0
+        },
+        {
+          "b": "william",
+          "d": 24.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.0
+        },
+        {
+          "b": "wei-san",
+          "e": "p",
+          "s": "puncture! now running on 3 of 4 wheels"
+        },
+        {
+          "b": "sahal",
+          "d": 13.0
+        },
+        {
+          "b": "natashah",
+          "d": 25.0
+        },
+        {
+          "b": "isaac",
+          "d": 14.0
+        },
+        {
+          "b": "kacper",
+          "d": 30.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 10.0
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 16.0
+        },
+        {
+          "b": "talha",
+          "d": 14.0
+        },
+        {
+          "b": "connor",
+          "d": 7.0
+        },
+        {
+          "b": "hamza1",
+          "d": 5.0
+        },
+        {
+          "b": "joshua",
+          "d": 16.0
+        },
+        {
+          "b": "william",
+          "d": 32.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.0
+        },
+        {
+          "b": "sahal",
+          "d": 10.0
+        },
+        {
+          "b": "natashah",
+          "d": 32.0
+        },
+        {
+          "b": "isaac",
+          "d": 12.0
+        },
+        {
+          "b": "kacper",
+          "d": 26.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 6.0
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 13.0
+        },
+        {
+          "b": "talha",
+          "d": 8.0
+        },
+        {
+          "b": "connor",
+          "d": 17.0
+        },
+        {
+          "b": "hamza1",
+          "d": 5.0
+        },
+        {
+          "b": "joshua",
+          "d": 7.0
+        },
+        {
+          "b": "william",
+          "d": 25.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "sahal",
+          "d": 18.0
+        },
+        {
+          "b": "natashah",
+          "d": 30.0
+        },
+        {
+          "b": "isaac",
+          "d": 16.0
+        },
+        {
+          "b": "kacper",
+          "d": 25.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 6.0
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 8.0
+        },
+        {
+          "b": "talha",
+          "d": 12.0
+        },
+        {
+          "b": "connor",
+          "d": 18.0
+        },
+        {
+          "b": "hamza1",
+          "d": 4.0
+        },
+        {
+          "b": "joshua",
+          "d": 13.0
+        },
+        {
+          "b": "william",
+          "d": 29.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "sahal",
+          "d": 14.0
+        },
+        {
+          "b": "natashah",
+          "d": 24.0
+        },
+        {
+          "b": "isaac",
+          "d": 8.0
+        },
+        {
+          "b": "kacper",
+          "d": 35.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 10.0
+        },
+        {
+          "b": "talha",
+          "d": 5.0
+        },
+        {
+          "b": "connor",
+          "d": 10.0
+        },
+        {
+          "b": "hamza1",
+          "d": 8.0
+        },
+        {
+          "b": "joshua",
+          "d": 11.0
+        },
+        {
+          "b": "william",
+          "d": 29.0
+        },
+        {
+          "b": "wei-san",
+          "d": 9.0
+        },
+        {
+          "b": "sahal",
+          "d": 12.0
+        },
+        {
+          "b": "natashah",
+          "d": 31.0
+        },
+        {
+          "b": "isaac",
+          "d": 11.0
+        },
+        {
+          "b": "kacper",
+          "d": 32.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 7.0
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 9.0
+        },
+        {
+          "b": "talha",
+          "d": 8.0
+        },
+        {
+          "b": "connor",
+          "d": 10.0
+        },
+        {
+          "b": "hamza1",
+          "d": 6.0
+        },
+        {
+          "b": "joshua",
+          "d": 10.0
+        },
+        {
+          "b": "william",
+          "d": 23.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.75
+        },
+        {
+          "b": "sahal",
+          "d": 16.0
+        },
+        {
+          "b": "natashah",
+          "d": 29.0
+        },
+        {
+          "b": "isaac",
+          "d": 8.0
+        },
+        {
+          "b": "kacper",
+          "d": 37.0
+        },
+        {
+          "b": "kacper",
+          "e": "p",
+          "s": "puncture! use spare: still running on 4 of 4 wheels"
+        },
+        {
+          "b": "arbaaz",
+          "d": 9.0
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 10.0
+        },
+        {
+          "b": "talha",
+          "d": 10.0
+        },
+        {
+          "b": "connor",
+          "d": 15.0
+        },
+        {
+          "b": "hamza1",
+          "d": 6.0
+        },
+        {
+          "b": "joshua",
+          "d": 13.0
+        },
+        {
+          "b": "william",
+          "d": 23.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.0
+        },
+        {
+          "b": "sahal",
+          "d": 13.0
+        },
+        {
+          "b": "natashah",
+          "d": 28.0
+        },
+        {
+          "b": "isaac",
+          "d": 12.0
+        },
+        {
+          "b": "kacper",
+          "d": 30.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 7.0
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 16.0
+        },
+        {
+          "b": "talha",
+          "d": 17.0
+        },
+        {
+          "b": "connor",
+          "d": 11.0
+        },
+        {
+          "b": "hamza1",
+          "d": 3.0
+        },
+        {
+          "b": "joshua",
+          "d": 11.0
+        },
+        {
+          "b": "william",
+          "d": 21.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "sahal",
+          "d": 13.0
+        },
+        {
+          "b": "natashah",
+          "d": 26.0
+        },
+        {
+          "b": "isaac",
+          "d": 14.0
+        },
+        {
+          "b": "kacper",
+          "d": 35.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 9.0
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 10.0
+        },
+        {
+          "b": "talha",
+          "d": 10.0
+        },
+        {
+          "b": "connor",
+          "d": 12.0
+        },
+        {
+          "b": "hamza1",
+          "d": 5.0
+        },
+        {
+          "b": "joshua",
+          "d": 8.0
+        },
+        {
+          "b": "william",
+          "d": 23.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.0
+        },
+        {
+          "b": "sahal",
+          "d": 12.0
+        },
+        {
+          "b": "natashah",
+          "s": "is out of power (and has no auxillary power)"
+        },
+        {
+          "b": "isaac",
+          "d": 11.0
+        },
+        {
+          "b": "kacper",
+          "d": 31.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 9.0
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 12.0
+        },
+        {
+          "b": "talha",
+          "d": 17.0
+        },
+        {
+          "b": "connor",
+          "d": 8.0
+        },
+        {
+          "b": "hamza1",
+          "d": 5.0
+        },
+        {
+          "b": "joshua",
+          "d": 13.0
+        },
+        {
+          "b": "william",
+          "d": 30.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "sahal",
+          "d": 14.0
+        },
+        {
+          "b": "isaac",
+          "d": 14.0
+        },
+        {
+          "b": "kacper",
+          "d": 23.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 7.0
+        },
+        {
+          "b": "arbaaz",
+          "e": "p",
+          "s": "puncture! use spare: still running on 4 of 4 wheels"
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 12.0
+        },
+        {
+          "b": "talha",
+          "d": 14.0
+        },
+        {
+          "b": "connor",
+          "d": 15.0
+        },
+        {
+          "b": "hamza1",
+          "d": 3.0
+        },
+        {
+          "b": "joshua",
+          "d": 14.0
+        },
+        {
+          "b": "william",
+          "d": 26.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "sahal",
+          "d": 11.0
+        },
+        {
+          "b": "isaac",
+          "d": 12.0
+        },
+        {
+          "b": "kacper",
+          "e": "xc",
+          "s": "catastrophic chassis failure: buggy breaks."
+        },
+        {
+          "b": "arbaaz",
+          "d": 10.0
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 8.0
+        },
+        {
+          "b": "talha",
+          "d": 17.0
+        },
+        {
+          "b": "connor",
+          "d": 14.0
+        },
+        {
+          "b": "hamza1",
+          "d": 8.0
+        },
+        {
+          "b": "joshua",
+          "d": 10.0
+        },
+        {
+          "b": "william",
+          "d": 32.0
+        },
+        {
+          "b": "wei-san",
+          "d": 5.25
+        },
+        {
+          "b": "sahal",
+          "d": 9.0
+        },
+        {
+          "b": "isaac",
+          "d": 10.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 8.0
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 10.0
+        },
+        {
+          "b": "talha",
+          "d": 15.0
+        },
+        {
+          "b": "connor",
+          "d": 8.0
+        },
+        {
+          "b": "hamza1",
+          "d": 4.0
+        },
+        {
+          "b": "joshua",
+          "d": 16.0
+        },
+        {
+          "b": "william",
+          "d": 30.0
+        },
+        {
+          "b": "wei-san",
+          "d": 5.25
+        },
+        {
+          "b": "sahal",
+          "d": 11.0
+        },
+        {
+          "b": "sahal",
+          "e": "p",
+          "s": "puncture! now running on 3 of 4 wheels"
+        },
+        {
+          "b": "isaac",
+          "d": 10.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 8.0
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 14.0
+        },
+        {
+          "b": "talha",
+          "d": 15.0
+        },
+        {
+          "b": "connor",
+          "d": 10.0
+        },
+        {
+          "b": "hamza1",
+          "d": 3.0
+        },
+        {
+          "b": "joshua",
+          "d": 15.0
+        },
+        {
+          "b": "william",
+          "d": 20.0
+        },
+        {
+          "b": "wei-san",
+          "d": 5.25
+        },
+        {
+          "b": "sahal",
+          "d": 9.0
+        },
+        {
+          "b": "isaac",
+          "d": 14.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 7.0
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 5.0
+        },
+        {
+          "b": "talha",
+          "d": 18.0
+        },
+        {
+          "b": "connor",
+          "d": 13.0
+        },
+        {
+          "b": "hamza1",
+          "d": 7.0
+        },
+        {
+          "b": "joshua",
+          "d": 6.0
+        },
+        {
+          "b": "william",
+          "d": 33.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.75
+        },
+        {
+          "b": "sahal",
+          "d": 7.5
+        },
+        {
+          "b": "isaac",
+          "d": 11.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 17.0
+        },
+        {
+          "b": "talha",
+          "d": 15.0
+        },
+        {
+          "b": "connor",
+          "d": 12.0
+        },
+        {
+          "b": "hamza1",
+          "d": 5.0
+        },
+        {
+          "b": "joshua",
+          "d": 11.0
+        },
+        {
+          "b": "william",
+          "d": 27.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.75
+        },
+        {
+          "b": "sahal",
+          "d": 5.25
+        },
+        {
+          "b": "isaac",
+          "d": 17.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 8.0
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 9.0
+        },
+        {
+          "b": "talha",
+          "d": 12.0
+        },
+        {
+          "b": "connor",
+          "d": 11.0
+        },
+        {
+          "b": "hamza1",
+          "d": 8.0
+        },
+        {
+          "b": "joshua",
+          "d": 14.0
+        },
+        {
+          "b": "william",
+          "d": 28.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.75
+        },
+        {
+          "b": "sahal",
+          "d": 8.25
+        },
+        {
+          "b": "isaac",
+          "d": 9.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 11.0
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 7.0
+        },
+        {
+          "b": "talha",
+          "d": 14.0
+        },
+        {
+          "b": "connor",
+          "d": 11.0
+        },
+        {
+          "b": "hamza1",
+          "d": 4.0
+        },
+        {
+          "b": "joshua",
+          "d": 12.0
+        },
+        {
+          "b": "william",
+          "d": 27.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "sahal",
+          "d": 8.25
+        },
+        {
+          "b": "isaac",
+          "d": 9.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 9.0
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 13.0
+        },
+        {
+          "b": "talha",
+          "d": 9.0
+        },
+        {
+          "b": "connor",
+          "d": 15.0
+        },
+        {
+          "b": "hamza1",
+          "d": 5.0
+        },
+        {
+          "b": "joshua",
+          "d": 9.0
+        },
+        {
+          "b": "william",
+          "d": 26.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.75
+        },
+        {
+          "b": "sahal",
+          "d": 12.75
+        },
+        {
+          "b": "isaac",
+          "d": 10.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 9.0
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 12.0
+        },
+        {
+          "b": "talha",
+          "d": 12.0
+        },
+        {
+          "b": "connor",
+          "d": 13.0
+        },
+        {
+          "b": "hamza1",
+          "d": 7.0
+        },
+        {
+          "b": "joshua",
+          "d": 12.0
+        },
+        {
+          "b": "william",
+          "d": 24.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "sahal",
+          "d": 7.5
+        },
+        {
+          "b": "isaac",
+          "d": 14.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 8.0
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 14.0
+        },
+        {
+          "b": "talha",
+          "d": 10.0
+        },
+        {
+          "b": "connor",
+          "d": 16.0
+        },
+        {
+          "b": "hamza1",
+          "d": 6.0
+        },
+        {
+          "b": "joshua",
+          "d": 17.0
+        },
+        {
+          "b": "william",
+          "d": 23.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.75
+        },
+        {
+          "b": "sahal",
+          "d": 9.0
+        },
+        {
+          "b": "isaac",
+          "d": 9.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 9.0
+        },
+        {
+          "b": "arbaaz",
+          "e": "p",
+          "s": "puncture! now running on 3 of 4 wheels"
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 7.0
+        },
+        {
+          "b": "talha",
+          "d": 11.0
+        },
+        {
+          "b": "connor",
+          "d": 17.0
+        },
+        {
+          "b": "hamza1",
+          "d": 8.0
+        },
+        {
+          "b": "joshua",
+          "d": 13.0
+        },
+        {
+          "b": "william",
+          "d": 19.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "sahal",
+          "d": 12.75
+        },
+        {
+          "b": "isaac",
+          "d": 13.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 3.75
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 13.0
+        },
+        {
+          "b": "talha",
+          "d": 15.0
+        },
+        {
+          "b": "connor",
+          "d": 12.0
+        },
+        {
+          "b": "hamza1",
+          "d": 6.0
+        },
+        {
+          "b": "joshua",
+          "d": 10.0
+        },
+        {
+          "b": "william",
+          "d": 31.0
+        },
+        {
+          "b": "wei-san",
+          "d": 8.25
+        },
+        {
+          "b": "sahal",
+          "d": 9.0
+        },
+        {
+          "b": "isaac",
+          "d": 13.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 5.25
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 12.0
+        },
+        {
+          "b": "talha",
+          "d": 8.0
+        },
+        {
+          "b": "connor",
+          "d": 8.0
+        },
+        {
+          "b": "hamza1",
+          "d": 7.0
+        },
+        {
+          "b": "joshua",
+          "d": 9.0
+        },
+        {
+          "b": "william",
+          "d": 26.0
+        },
+        {
+          "b": "wei-san",
+          "d": 5.25
+        },
+        {
+          "b": "sahal",
+          "d": 9.75
+        },
+        {
+          "b": "isaac",
+          "d": 11.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 6.75
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 11.0
+        },
+        {
+          "b": "talha",
+          "d": 13.0
+        },
+        {
+          "b": "connor",
+          "d": 12.0
+        },
+        {
+          "b": "hamza1",
+          "d": 4.0
+        },
+        {
+          "b": "joshua",
+          "d": 13.0
+        },
+        {
+          "b": "william",
+          "d": 25.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.0
+        },
+        {
+          "b": "sahal",
+          "d": 8.25
+        },
+        {
+          "b": "isaac",
+          "d": 8.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 10.0
+        },
+        {
+          "b": "talha",
+          "d": 15.0
+        },
+        {
+          "b": "connor",
+          "d": 10.0
+        },
+        {
+          "b": "hamza1",
+          "d": 4.0
+        },
+        {
+          "b": "joshua",
+          "d": 12.0
+        },
+        {
+          "b": "william",
+          "d": 31.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.75
+        },
+        {
+          "b": "sahal",
+          "d": 7.5
+        },
+        {
+          "b": "isaac",
+          "d": 11.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 3.75
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 14.0
+        },
+        {
+          "b": "talha",
+          "d": 13.0
+        },
+        {
+          "b": "connor",
+          "d": 11.0
+        },
+        {
+          "b": "hamza1",
+          "d": 4.0
+        },
+        {
+          "b": "joshua",
+          "d": 16.0
+        },
+        {
+          "b": "william",
+          "d": 34.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.0
+        },
+        {
+          "b": "sahal",
+          "d": 6.0
+        },
+        {
+          "b": "isaac",
+          "d": 14.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 8.25
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 10.0
+        },
+        {
+          "b": "talha",
+          "d": 13.0
+        },
+        {
+          "b": "connor",
+          "d": 11.0
+        },
+        {
+          "b": "hamza1",
+          "d": 6.0
+        },
+        {
+          "b": "joshua",
+          "d": 13.0
+        },
+        {
+          "b": "william",
+          "d": 38.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.0
+        },
+        {
+          "b": "sahal",
+          "d": 12.0
+        },
+        {
+          "b": "isaac",
+          "d": 19.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 12.0
+        },
+        {
+          "b": "talha",
+          "d": 16.0
+        },
+        {
+          "b": "connor",
+          "d": 9.0
+        },
+        {
+          "b": "hamza1",
+          "d": 7.0
+        },
+        {
+          "b": "joshua",
+          "d": 6.0
+        },
+        {
+          "b": "william",
+          "d": 31.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.75
+        },
+        {
+          "b": "sahal",
+          "d": 12.75
+        },
+        {
+          "b": "isaac",
+          "d": 12.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 3.75
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 15.0
+        },
+        {
+          "b": "talha",
+          "d": 17.0
+        },
+        {
+          "b": "connor",
+          "d": 14.0
+        },
+        {
+          "b": "hamza1",
+          "s": "is out of power (and has no auxillary power)"
+        },
+        {
+          "b": "joshua",
+          "d": 16.0
+        },
+        {
+          "b": "william",
+          "d": 29.0
+        },
+        {
+          "b": "wei-san",
+          "d": 5.25
+        },
+        {
+          "b": "sahal",
+          "d": 9.0
+        },
+        {
+          "b": "isaac",
+          "d": 14.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 6.75
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 7.0
+        },
+        {
+          "b": "talha",
+          "d": 19.0
+        },
+        {
+          "b": "connor",
+          "d": 10.0
+        },
+        {
+          "b": "joshua",
+          "d": 14.0
+        },
+        {
+          "b": "william",
+          "d": 22.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.75
+        },
+        {
+          "b": "sahal",
+          "d": 11.25
+        },
+        {
+          "b": "isaac",
+          "d": 9.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 5.25
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 15.0
+        },
+        {
+          "b": "talha",
+          "d": 17.0
+        },
+        {
+          "b": "connor",
+          "d": 15.0
+        },
+        {
+          "b": "joshua",
+          "d": 7.0
+        },
+        {
+          "b": "william",
+          "d": 36.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "sahal",
+          "d": 9.75
+        },
+        {
+          "b": "isaac",
+          "d": 10.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 6.75
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 14.0
+        },
+        {
+          "b": "talha",
+          "d": 9.0
+        },
+        {
+          "b": "connor",
+          "d": 17.0
+        },
+        {
+          "b": "joshua",
+          "d": 11.0
+        },
+        {
+          "b": "william",
+          "d": 27.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "sahal",
+          "d": 7.5
+        },
+        {
+          "b": "isaac",
+          "d": 12.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 13.0
+        },
+        {
+          "b": "talha",
+          "d": 12.0
+        },
+        {
+          "b": "connor",
+          "d": 12.0
+        },
+        {
+          "b": "joshua",
+          "d": 8.0
+        },
+        {
+          "b": "william",
+          "d": 32.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "sahal",
+          "d": 8.25
+        },
+        {
+          "b": "isaac",
+          "d": 14.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 6.0
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 14.0
+        },
+        {
+          "b": "talha",
+          "d": 13.0
+        },
+        {
+          "b": "connor",
+          "d": 9.0
+        },
+        {
+          "b": "joshua",
+          "d": 4.0
+        },
+        {
+          "b": "william",
+          "d": 18.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "sahal",
+          "d": 7.5
+        },
+        {
+          "b": "isaac",
+          "d": 12.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 5.25
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 14.0
+        },
+        {
+          "b": "talha",
+          "d": 9.0
+        },
+        {
+          "b": "connor",
+          "d": 12.0
+        },
+        {
+          "b": "joshua",
+          "d": 11.0
+        },
+        {
+          "b": "william",
+          "d": 33.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.75
+        },
+        {
+          "b": "sahal",
+          "d": 11.25
+        },
+        {
+          "b": "isaac",
+          "d": 15.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 7.5
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 10.0
+        },
+        {
+          "b": "talha",
+          "d": 17.0
+        },
+        {
+          "b": "connor",
+          "d": 14.0
+        },
+        {
+          "b": "joshua",
+          "d": 14.0
+        },
+        {
+          "b": "william",
+          "d": 22.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.75
+        },
+        {
+          "b": "sahal",
+          "d": 9.75
+        },
+        {
+          "b": "isaac",
+          "d": 13.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 8.25
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 18.0
+        },
+        {
+          "b": "talha",
+          "d": 9.0
+        },
+        {
+          "b": "connor",
+          "d": 11.0
+        },
+        {
+          "b": "joshua",
+          "d": 14.0
+        },
+        {
+          "b": "william",
+          "d": 22.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.75
+        },
+        {
+          "b": "sahal",
+          "d": 10.5
+        },
+        {
+          "b": "isaac",
+          "d": 18.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 5.25
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 10.0
+        },
+        {
+          "b": "talha",
+          "d": 10.0
+        },
+        {
+          "b": "connor",
+          "d": 12.0
+        },
+        {
+          "b": "joshua",
+          "d": 6.0
+        },
+        {
+          "b": "william",
+          "d": 35.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "sahal",
+          "d": 11.25
+        },
+        {
+          "b": "isaac",
+          "d": 10.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 3.75
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 16.0
+        },
+        {
+          "b": "talha",
+          "d": 17.0
+        },
+        {
+          "b": "connor",
+          "d": 13.0
+        },
+        {
+          "b": "joshua",
+          "d": 14.0
+        },
+        {
+          "b": "william",
+          "d": 20.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.0
+        },
+        {
+          "b": "sahal",
+          "d": 9.0
+        },
+        {
+          "b": "isaac",
+          "d": 11.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 10.0
+        },
+        {
+          "b": "talha",
+          "d": 15.0
+        },
+        {
+          "b": "connor",
+          "d": 11.0
+        },
+        {
+          "b": "joshua",
+          "d": 9.0
+        },
+        {
+          "b": "william",
+          "d": 35.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.75
+        },
+        {
+          "b": "sahal",
+          "d": 6.75
+        },
+        {
+          "b": "isaac",
+          "d": 13.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 5.25
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 16.0
+        },
+        {
+          "b": "talha",
+          "d": 16.0
+        },
+        {
+          "b": "connor",
+          "d": 9.0
+        },
+        {
+          "b": "joshua",
+          "d": 10.0
+        },
+        {
+          "b": "william",
+          "d": 33.0
+        },
+        {
+          "b": "wei-san",
+          "d": 7.5
+        },
+        {
+          "b": "sahal",
+          "d": 11.25
+        },
+        {
+          "b": "isaac",
+          "d": 8.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 6.0
+        },
+        {
+          "b": "talha",
+          "d": 14.0
+        },
+        {
+          "b": "connor",
+          "d": 15.0
+        },
+        {
+          "b": "joshua",
+          "d": 12.0
+        },
+        {
+          "b": "william",
+          "d": 27.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.75
+        },
+        {
+          "b": "sahal",
+          "d": 9.75
+        },
+        {
+          "b": "isaac",
+          "d": 15.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 6.0
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 11.0
+        },
+        {
+          "b": "talha",
+          "d": 14.0
+        },
+        {
+          "b": "connor",
+          "d": 11.0
+        },
+        {
+          "b": "joshua",
+          "d": 8.0
+        },
+        {
+          "b": "william",
+          "d": 16.0
+        },
+        {
+          "b": "wei-san",
+          "d": 5.25
+        },
+        {
+          "b": "sahal",
+          "d": 8.25
+        },
+        {
+          "b": "isaac",
+          "d": 12.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 8.25
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 14.0
+        },
+        {
+          "b": "talha",
+          "d": 15.0
+        },
+        {
+          "b": "connor",
+          "d": 14.0
+        },
+        {
+          "b": "joshua",
+          "d": 14.0
+        },
+        {
+          "b": "william",
+          "d": 38.0
+        },
+        {
+          "b": "wei-san",
+          "d": 7.5
+        },
+        {
+          "b": "sahal",
+          "d": 11.25
+        },
+        {
+          "b": "isaac",
+          "d": 9.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 8.25
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "d": 13.0
+        },
+        {
+          "b": "talha",
+          "d": 14.0
+        },
+        {
+          "b": "connor",
+          "d": 9.0
+        },
+        {
+          "b": "joshua",
+          "d": 14.0
+        },
+        {
+          "b": "william",
+          "d": 31.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.0
+        },
+        {
+          "b": "sahal",
+          "d": 13.5
+        },
+        {
+          "b": "isaac",
+          "d": 9.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 6.0
+        }
+    ],
+    [
+        {
+          "b": "mustafa",
+          "s": "is out of power (and has no auxillary power)"
+        },
+        {
+          "b": "talha",
+          "d": 14.0
+        },
+        {
+          "b": "connor",
+          "d": 14.0
+        },
+        {
+          "b": "joshua",
+          "d": 5.0
+        },
+        {
+          "b": "william",
+          "d": 29.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "sahal",
+          "d": 9.0
+        },
+        {
+          "b": "isaac",
+          "s": "is out of power (and has no auxillary power)"
+        },
+        {
+          "b": "arbaaz",
+          "d": 5.25
+        }
+    ],
+    [
+        {
+          "b": "talha",
+          "d": 10.0
+        },
+        {
+          "b": "connor",
+          "d": 13.0
+        },
+        {
+          "b": "joshua",
+          "d": 17.0
+        },
+        {
+          "b": "william",
+          "d": 26.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.0
+        },
+        {
+          "b": "sahal",
+          "d": 6.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 6.75
+        }
+    ],
+    [
+        {
+          "b": "talha",
+          "s": "is out of power (and has no auxillary power)"
+        },
+        {
+          "b": "connor",
+          "d": 9.0
+        },
+        {
+          "b": "joshua",
+          "d": 8.0
+        },
+        {
+          "b": "william",
+          "d": 27.0
+        },
+        {
+          "b": "wei-san",
+          "d": 5.25
+        },
+        {
+          "b": "sahal",
+          "d": 12.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 5.25
+        }
+    ],
+    [
+        {
+          "b": "connor",
+          "d": 14.0
+        },
+        {
+          "b": "joshua",
+          "d": 15.0
+        },
+        {
+          "b": "william",
+          "d": 32.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "sahal",
+          "d": 11.25
+        },
+        {
+          "b": "arbaaz",
+          "d": 6.0
+        }
+    ],
+    [
+        {
+          "b": "connor",
+          "d": 12.0
+        },
+        {
+          "b": "joshua",
+          "d": 14.0
+        },
+        {
+          "b": "william",
+          "d": 25.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.75
+        },
+        {
+          "b": "sahal",
+          "d": 8.25
+        },
+        {
+          "b": "arbaaz",
+          "d": 5.25
+        }
+    ],
+    [
+        {
+          "b": "connor",
+          "d": 13.0
+        },
+        {
+          "b": "joshua",
+          "d": 10.0
+        },
+        {
+          "b": "william",
+          "d": 25.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.0
+        },
+        {
+          "b": "sahal",
+          "d": 7.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 3.75
+        }
+    ],
+    [
+        {
+          "b": "connor",
+          "s": "is out of power (and has no auxillary power)"
+        },
+        {
+          "b": "joshua",
+          "d": 7.0
+        },
+        {
+          "b": "william",
+          "d": 22.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "sahal",
+          "s": "is out of power (and has no auxillary power)"
+        },
+        {
+          "b": "arbaaz",
+          "d": 5.25
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 9.0
+        },
+        {
+          "b": "william",
+          "d": 26.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 10.0
+        },
+        {
+          "b": "william",
+          "d": 22.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.75
+        },
+        {
+          "b": "arbaaz",
+          "d": 5.25
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 14.0
+        },
+        {
+          "b": "william",
+          "d": 35.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 6.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 10.0
+        },
+        {
+          "b": "william",
+          "d": 34.0
+        },
+        {
+          "b": "wei-san",
+          "d": 5.25
+        },
+        {
+          "b": "arbaaz",
+          "d": 3.75
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 13.0
+        },
+        {
+          "b": "william",
+          "d": 32.0
+        },
+        {
+          "b": "wei-san",
+          "d": 7.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 5.25
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 14.0
+        },
+        {
+          "b": "william",
+          "d": 25.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.75
+        },
+        {
+          "b": "arbaaz",
+          "d": 8.25
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 16.0
+        },
+        {
+          "b": "william",
+          "d": 19.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.75
+        },
+        {
+          "b": "arbaaz",
+          "d": 6.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 4.0
+        },
+        {
+          "b": "william",
+          "d": 31.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.75
+        },
+        {
+          "b": "arbaaz",
+          "d": 3.75
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 16.0
+        },
+        {
+          "b": "william",
+          "d": 25.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.75
+        },
+        {
+          "b": "arbaaz",
+          "d": 5.25
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 9.0
+        },
+        {
+          "b": "william",
+          "d": 32.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 5.25
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 13.0
+        },
+        {
+          "b": "william",
+          "d": 32.0
+        },
+        {
+          "b": "wei-san",
+          "d": 5.25
+        },
+        {
+          "b": "arbaaz",
+          "d": 9.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 7.0
+        },
+        {
+          "b": "william",
+          "d": 29.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.75
+        },
+        {
+          "b": "arbaaz",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 6.0
+        },
+        {
+          "b": "william",
+          "d": 23.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 7.5
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 12.0
+        },
+        {
+          "b": "william",
+          "d": 25.0
+        },
+        {
+          "b": "william",
+          "s": "crosses the finish line in FIRST PLACE (4 lap race)"
+        },
+        {
+          "b": "wei-san",
+          "d": 3.75
+        },
+        {
+          "b": "arbaaz",
+          "d": 2.25
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 4.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 14.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 16.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 7.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.75
+        },
+        {
+          "b": "arbaaz",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 11.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 7.5
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 6.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 6.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 7.0
+        },
+        {
+          "b": "wei-san",
+          "d": 5.25
+        },
+        {
+          "b": "arbaaz",
+          "d": 6.75
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 11.0
+        },
+        {
+          "b": "wei-san",
+          "d": 5.25
+        },
+        {
+          "b": "arbaaz",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 7.0
+        },
+        {
+          "b": "wei-san",
+          "d": 7.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 6.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 7.0
+        },
+        {
+          "b": "wei-san",
+          "d": 5.25
+        },
+        {
+          "b": "arbaaz",
+          "d": 5.25
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 18.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.75
+        },
+        {
+          "b": "arbaaz",
+          "d": 7.5
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 7.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 6.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 8.0
+        },
+        {
+          "b": "wei-san",
+          "d": 5.25
+        },
+        {
+          "b": "arbaaz",
+          "d": 8.25
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 8.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.75
+        },
+        {
+          "b": "arbaaz",
+          "d": 5.25
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 7.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 5.25
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 7.0
+        },
+        {
+          "b": "wei-san",
+          "d": 5.25
+        },
+        {
+          "b": "arbaaz",
+          "d": 6.75
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 8.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 6.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 13.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 6.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 15.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 6.75
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 9.0
+        },
+        {
+          "b": "joshua",
+          "e": "p",
+          "s": "puncture! use spare: still running on 4 of 4 wheels"
+        },
+        {
+          "b": "wei-san",
+          "d": 6.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 11.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 8.25
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 10.0
+        },
+        {
+          "b": "wei-san",
+          "d": 2.25
+        },
+        {
+          "b": "arbaaz",
+          "d": 6.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 5.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 6.75
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 12.0
+        },
+        {
+          "b": "wei-san",
+          "d": 5.25
+        },
+        {
+          "b": "arbaaz",
+          "d": 6.75
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 10.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 6.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 12.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 3.75
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 15.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 6.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 14.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 6.75
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 6.0
+        },
+        {
+          "b": "wei-san",
+          "d": 5.25
+        },
+        {
+          "b": "arbaaz",
+          "d": 8.25
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 10.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.75
+        },
+        {
+          "b": "arbaaz",
+          "d": 6.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 9.0
+        },
+        {
+          "b": "wei-san",
+          "d": 7.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 5.25
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 11.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.75
+        },
+        {
+          "b": "arbaaz",
+          "d": 5.25
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 8.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 6.75
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 12.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 6.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 10.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "wei-san",
+          "e": "p",
+          "s": "puncture! now running on 2 of 4 wheels"
+        },
+        {
+          "b": "arbaaz",
+          "d": 9.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 7.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 9.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 6.75
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 10.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 7.5
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 11.0
+        },
+        {
+          "b": "wei-san",
+          "d": 2.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 6.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 8.0
+        },
+        {
+          "b": "wei-san",
+          "d": 2.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 6.0
+        },
+        {
+          "b": "wei-san",
+          "d": 5.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 3.75
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 3.0
+        },
+        {
+          "b": "wei-san",
+          "d": 5.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 2.25
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 17.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 5.25
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 8.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 5.25
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 13.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 3.75
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 9.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 2.25
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 15.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 7.5
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 8.0
+        },
+        {
+          "b": "wei-san",
+          "d": 5.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 5.25
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 12.0
+        },
+        {
+          "b": "wei-san",
+          "d": 2.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 3.75
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 9.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 6.75
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 7.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 6.75
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 13.0
+        },
+        {
+          "b": "wei-san",
+          "d": 5.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 4.5
+        },
+        {
+          "b": "arbaaz",
+          "e": "p",
+          "s": "puncture! now running on 2 of 4 wheels"
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 9.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 7.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 11.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 11.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 5.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 13.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 14.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 5.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 16.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 12.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 10.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 5.0
+        },
+        {
+          "b": "wei-san",
+          "d": 5.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 10.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 11.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 7.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 2.5
+        },
+        {
+          "b": "arbaaz",
+          "e": "p",
+          "s": "puncture! now running on 1 of 4 wheels"
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 6.0
+        },
+        {
+          "b": "wei-san",
+          "d": 2.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 2.75
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 5.0
+        },
+        {
+          "b": "wei-san",
+          "d": 5.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 1.5
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 10.0
+        },
+        {
+          "b": "wei-san",
+          "d": 5.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 16.0
+        },
+        {
+          "b": "wei-san",
+          "d": 2.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 16.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 1.75
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "s": "is out of bio power so switches to auxillary (petrol)"
+        },
+        {
+          "b": "wei-san",
+          "d": 3.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 1.75
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 16.0
+        },
+        {
+          "b": "wei-san",
+          "d": 5.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 1.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 9.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 13.0
+        },
+        {
+          "b": "wei-san",
+          "d": 2.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 2.25
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 9.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 1.75
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 18.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 2.75
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 16.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 1.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 14.0
+        },
+        {
+          "b": "wei-san",
+          "d": 5.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 11.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 1.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 11.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 2.25
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 14.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 1.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 16.0
+        },
+        {
+          "b": "wei-san",
+          "d": 1.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 13.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 2.25
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 15.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 1.25
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 13.0
+        },
+        {
+          "b": "wei-san",
+          "d": 6.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 1.5
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 10.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 15.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 1.75
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 13.0
+        },
+        {
+          "b": "wei-san",
+          "d": 5.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 2.25
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 8.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 1.75
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 15.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 14.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 2.25
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 13.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 18.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 1.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 14.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 12.0
+        },
+        {
+          "b": "wei-san",
+          "d": 1.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 1.75
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 8.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 2.75
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 8.0
+        },
+        {
+          "b": "wei-san",
+          "d": 3.5
+        },
+        {
+          "b": "arbaaz",
+          "d": 2.25
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 9.0
+        },
+        {
+          "b": "wei-san",
+          "d": 2.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 1.25
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 9.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 7.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 1.75
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 15.0
+        },
+        {
+          "b": "wei-san",
+          "d": 5.0
+        },
+        {
+          "b": "arbaaz",
+          "d": 1.75
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 10.0
+        },
+        {
+          "b": "wei-san",
+          "d": 4.0
+        },
+        {
+          "b": "arbaaz",
+          "s": "is out of power (and has no auxillary power)"
+        }
+    ],
+    [
+        {
+          "b": "joshua",
+          "d": 14.0
+        },
+        {
+          "b": "joshua",
+          "s": "crosses the finish line in SECOND PLACE (4 lap race)"
+        },
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 5.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 5.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 5.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 5.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 5.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 5.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 5.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 5.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 5.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 5.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 5.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 5.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 5.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 5.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 5.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 5.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 5.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 5.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 5.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 5.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 5.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 6.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 5.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 5.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 5.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 5.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 5.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 5.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 5.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 5.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 5.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 6.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 5.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 6.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 5.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 4.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 5.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        },
+        {
+          "b": "wei-san",
+          "e": "p",
+          "s": "puncture! now running on 1 of 4 wheels"
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.25
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.25
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.75
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.25
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.25
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.75
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.75
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.25
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.75
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.75
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.25
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.75
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.25
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.75
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.25
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.75
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.25
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.75
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.75
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.25
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.25
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.75
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.75
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.25
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.25
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.25
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.25
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.25
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.25
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.75
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 0.75
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.25
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.75
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.25
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.25
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.25
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.75
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.25
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.75
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.25
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.25
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 0.75
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.25
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 1.25
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 0.75
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.25
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.5
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 3.0
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.25
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.25
+        }
+    ],
+    [
+        {
+          "b": "wei-san",
+          "d": 2.25
+        },
+        {
+          "b": "wei-san",
+          "s": "crosses the finish line in THIRD PLACE (4 lap race)"
+        }
+    ]
+  ]
+}
