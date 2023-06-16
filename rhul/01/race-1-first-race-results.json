@@ -4,7 +4,7 @@
   "description": "The season opener on a sandy wilderness desert track",
   "cost_limit": 300,
   "max_laps": 2,
-  "track_image_url": "https://davewhiteland.github.io/race-data-test/rhul/01/racetrack-01.jpg",
+  "track_image_url": "xracetrack-01.jpg",
   "track_svg_url": "https://davewhiteland.github.io/race-data-test/rhul/01/racetrack-01-path.svg",
   "race_log_url": "https://davewhiteland.github.io/race-data-test/rhul/01/race-1-first-race-events.json",
   "buggies_csv_url": "",
@@ -76,5 +76,1261 @@
       "violations_str": ""
     }
   ],
+  "events": [
+     [
+         {
+           "b": "wei-san",
+           "d": 10.0
+         },
+         {
+           "b": "connor",
+           "d": 7.0
+         },
+         {
+           "b": "mustafa",
+           "d": 12.0
+         },
+         {
+           "b": "natashah",
+           "d": 15.0
+         },
+         {
+           "b": "joshua",
+           "d": 14.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 14.0
+         },
+         {
+           "b": "connor",
+           "d": 12.0
+         },
+         {
+           "b": "mustafa",
+           "d": 16.0
+         },
+         {
+           "b": "natashah",
+           "d": 19.0
+         },
+         {
+           "b": "joshua",
+           "d": 15.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 9.0
+         },
+         {
+           "b": "connor",
+           "d": 11.0
+         },
+         {
+           "b": "mustafa",
+           "d": 11.0
+         },
+         {
+           "b": "natashah",
+           "d": 32.0
+         },
+         {
+           "b": "joshua",
+           "d": 6.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 14.0
+         },
+         {
+           "b": "connor",
+           "d": 17.0
+         },
+         {
+           "b": "mustafa",
+           "d": 15.0
+         },
+         {
+           "b": "natashah",
+           "d": 24.0
+         },
+         {
+           "b": "joshua",
+           "d": 6.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 14.0
+         },
+         {
+           "b": "connor",
+           "d": 8.0
+         },
+         {
+           "b": "mustafa",
+           "d": 7.0
+         },
+         {
+           "b": "natashah",
+           "d": 28.0
+         },
+         {
+           "b": "joshua",
+           "d": 12.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 16.0
+         },
+         {
+           "b": "connor",
+           "d": 16.0
+         },
+         {
+           "b": "mustafa",
+           "d": 16.0
+         },
+         {
+           "b": "natashah",
+           "d": 31.0
+         },
+         {
+           "b": "joshua",
+           "d": 9.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 18.0
+         },
+         {
+           "b": "connor",
+           "d": 9.0
+         },
+         {
+           "b": "mustafa",
+           "d": 13.0
+         },
+         {
+           "b": "natashah",
+           "d": 31.0
+         },
+         {
+           "b": "joshua",
+           "d": 11.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 14.0
+         },
+         {
+           "b": "connor",
+           "d": 10.0
+         },
+         {
+           "b": "mustafa",
+           "d": 10.0
+         },
+         {
+           "b": "natashah",
+           "d": 22.0
+         },
+         {
+           "b": "joshua",
+           "d": 10.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 14.0
+         },
+         {
+           "b": "connor",
+           "d": 18.0
+         },
+         {
+           "b": "mustafa",
+           "d": 12.0
+         },
+         {
+           "b": "natashah",
+           "s": "is out of power (and has no auxillary power)"
+         },
+         {
+           "b": "joshua",
+           "d": 15.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 12.0
+         },
+         {
+           "b": "connor",
+           "d": 18.0
+         },
+         {
+           "b": "mustafa",
+           "d": 15.0
+         },
+         {
+           "b": "joshua",
+           "d": 14.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 12.0
+         },
+         {
+           "b": "connor",
+           "d": 10.0
+         },
+         {
+           "b": "mustafa",
+           "d": 15.0
+         },
+         {
+           "b": "joshua",
+           "d": 13.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 9.0
+         },
+         {
+           "b": "connor",
+           "d": 18.0
+         },
+         {
+           "b": "mustafa",
+           "d": 13.0
+         },
+         {
+           "b": "joshua",
+           "d": 13.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 12.0
+         },
+         {
+           "b": "connor",
+           "d": 19.0
+         },
+         {
+           "b": "mustafa",
+           "d": 13.0
+         },
+         {
+           "b": "joshua",
+           "d": 9.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 13.0
+         },
+         {
+           "b": "connor",
+           "d": 9.0
+         },
+         {
+           "b": "mustafa",
+           "d": 18.0
+         },
+         {
+           "b": "joshua",
+           "d": 14.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 11.0
+         },
+         {
+           "b": "connor",
+           "d": 16.0
+         },
+         {
+           "b": "mustafa",
+           "d": 14.0
+         },
+         {
+           "b": "joshua",
+           "d": 11.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 10.0
+         },
+         {
+           "b": "connor",
+           "d": 12.0
+         },
+         {
+           "b": "mustafa",
+           "d": 19.0
+         },
+         {
+           "b": "joshua",
+           "d": 10.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 10.0
+         },
+         {
+           "b": "connor",
+           "d": 11.0
+         },
+         {
+           "b": "mustafa",
+           "d": 10.0
+         },
+         {
+           "b": "joshua",
+           "d": 11.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 12.0
+         },
+         {
+           "b": "connor",
+           "d": 11.0
+         },
+         {
+           "b": "mustafa",
+           "d": 16.0
+         },
+         {
+           "b": "joshua",
+           "d": 10.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 13.0
+         },
+         {
+           "b": "connor",
+           "d": 16.0
+         },
+         {
+           "b": "mustafa",
+           "d": 8.0
+         },
+         {
+           "b": "joshua",
+           "d": 8.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 18.0
+         },
+         {
+           "b": "connor",
+           "d": 15.0
+         },
+         {
+           "b": "mustafa",
+           "d": 11.0
+         },
+         {
+           "b": "joshua",
+           "d": 13.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 8.0
+         },
+         {
+           "b": "connor",
+           "d": 11.0
+         },
+         {
+           "b": "mustafa",
+           "d": 15.0
+         },
+         {
+           "b": "joshua",
+           "d": 10.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 15.0
+         },
+         {
+           "b": "connor",
+           "d": 7.0
+         },
+         {
+           "b": "mustafa",
+           "d": 8.0
+         },
+         {
+           "b": "joshua",
+           "d": 14.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 14.0
+         },
+         {
+           "b": "connor",
+           "d": 11.0
+         },
+         {
+           "b": "mustafa",
+           "d": 13.0
+         },
+         {
+           "b": "joshua",
+           "d": 6.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 10.0
+         },
+         {
+           "b": "connor",
+           "d": 15.0
+         },
+         {
+           "b": "mustafa",
+           "d": 9.0
+         },
+         {
+           "b": "joshua",
+           "d": 9.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 9.0
+         },
+         {
+           "b": "connor",
+           "d": 10.0
+         },
+         {
+           "b": "mustafa",
+           "d": 17.0
+         },
+         {
+           "b": "joshua",
+           "d": 6.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 14.0
+         },
+         {
+           "b": "connor",
+           "d": 7.0
+         },
+         {
+           "b": "mustafa",
+           "d": 14.0
+         },
+         {
+           "b": "joshua",
+           "d": 9.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 10.0
+         },
+         {
+           "b": "connor",
+           "d": 14.0
+         },
+         {
+           "b": "mustafa",
+           "d": 11.0
+         },
+         {
+           "b": "joshua",
+           "d": 8.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 13.0
+         },
+         {
+           "b": "connor",
+           "d": 10.0
+         },
+         {
+           "b": "mustafa",
+           "d": 10.0
+         },
+         {
+           "b": "joshua",
+           "d": 6.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 19.0
+         },
+         {
+           "b": "connor",
+           "d": 15.0
+         },
+         {
+           "b": "mustafa",
+           "d": 11.0
+         },
+         {
+           "b": "joshua",
+           "d": 14.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 16.0
+         },
+         {
+           "b": "connor",
+           "d": 11.0
+         },
+         {
+           "b": "mustafa",
+           "d": 11.0
+         },
+         {
+           "b": "joshua",
+           "d": 9.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 13.0
+         },
+         {
+           "b": "connor",
+           "d": 11.0
+         },
+         {
+           "b": "connor",
+           "e": "p",
+           "s": "puncture! now running on 3 of 4 wheels"
+         },
+         {
+           "b": "mustafa",
+           "d": 12.0
+         },
+         {
+           "b": "joshua",
+           "d": 12.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 11.0
+         },
+         {
+           "b": "connor",
+           "d": 6.0
+         },
+         {
+           "b": "mustafa",
+           "d": 18.0
+         },
+         {
+           "b": "joshua",
+           "d": 13.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 12.0
+         },
+         {
+           "b": "connor",
+           "d": 7.5
+         },
+         {
+           "b": "mustafa",
+           "d": 17.0
+         },
+         {
+           "b": "joshua",
+           "d": 11.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 11.0
+         },
+         {
+           "b": "connor",
+           "d": 12.0
+         },
+         {
+           "b": "mustafa",
+           "d": 16.0
+         },
+         {
+           "b": "joshua",
+           "d": 8.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 11.0
+         },
+         {
+           "b": "connor",
+           "d": 6.75
+         },
+         {
+           "b": "mustafa",
+           "d": 11.0
+         },
+         {
+           "b": "joshua",
+           "d": 14.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 17.0
+         },
+         {
+           "b": "wei-san",
+           "e": "p",
+           "s": "puncture! now running on 3 of 4 wheels"
+         },
+         {
+           "b": "connor",
+           "d": 7.5
+         },
+         {
+           "b": "mustafa",
+           "d": 12.0
+         },
+         {
+           "b": "joshua",
+           "d": 7.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 8.25
+         },
+         {
+           "b": "connor",
+           "d": 12.0
+         },
+         {
+           "b": "mustafa",
+           "d": 12.0
+         },
+         {
+           "b": "joshua",
+           "d": 9.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 11.25
+         },
+         {
+           "b": "connor",
+           "d": 9.75
+         },
+         {
+           "b": "mustafa",
+           "d": 17.0
+         },
+         {
+           "b": "joshua",
+           "d": 8.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 12.75
+         },
+         {
+           "b": "connor",
+           "d": 10.5
+         },
+         {
+           "b": "mustafa",
+           "d": 12.0
+         },
+         {
+           "b": "joshua",
+           "d": 11.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 9.75
+         },
+         {
+           "b": "connor",
+           "d": 10.5
+         },
+         {
+           "b": "mustafa",
+           "d": 13.0
+         },
+         {
+           "b": "joshua",
+           "d": 12.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 13.5
+         },
+         {
+           "b": "connor",
+           "d": 10.5
+         },
+         {
+           "b": "mustafa",
+           "d": 9.0
+         },
+         {
+           "b": "joshua",
+           "d": 9.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 7.5
+         },
+         {
+           "b": "connor",
+           "d": 9.75
+         },
+         {
+           "b": "mustafa",
+           "d": 12.0
+         },
+         {
+           "b": "joshua",
+           "d": 13.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 11.25
+         },
+         {
+           "b": "connor",
+           "d": 10.5
+         },
+         {
+           "b": "mustafa",
+           "d": 13.0
+         },
+         {
+           "b": "joshua",
+           "d": 11.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 8.25
+         },
+         {
+           "b": "connor",
+           "d": 6.0
+         },
+         {
+           "b": "mustafa",
+           "d": 12.0
+         },
+         {
+           "b": "joshua",
+           "d": 15.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 8.25
+         },
+         {
+           "b": "connor",
+           "d": 9.75
+         },
+         {
+           "b": "mustafa",
+           "d": 12.0
+         },
+         {
+           "b": "joshua",
+           "d": 9.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 7.5
+         },
+         {
+           "b": "connor",
+           "d": 6.75
+         },
+         {
+           "b": "mustafa",
+           "d": 9.0
+         },
+         {
+           "b": "joshua",
+           "d": 10.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 13.5
+         },
+         {
+           "b": "connor",
+           "d": 7.5
+         },
+         {
+           "b": "mustafa",
+           "d": 17.0
+         },
+         {
+           "b": "joshua",
+           "d": 15.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "d": 12.0
+         },
+         {
+           "b": "connor",
+           "d": 6.75
+         },
+         {
+           "b": "mustafa",
+           "d": 11.0
+         },
+         {
+           "b": "joshua",
+           "d": 13.0
+         }
+     ],
+     [
+         {
+           "b": "wei-san",
+           "s": "is out of power (and has no auxillary power)"
+         },
+         {
+           "b": "connor",
+           "d": 8.25
+         },
+         {
+           "b": "mustafa",
+           "d": 14.0
+         },
+         {
+           "b": "joshua",
+           "d": 14.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 12.0
+         },
+         {
+           "b": "mustafa",
+           "d": 17.0
+         },
+         {
+           "b": "joshua",
+           "d": 11.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 9.75
+         },
+         {
+           "b": "mustafa",
+           "d": 10.0
+         },
+         {
+           "b": "joshua",
+           "d": 10.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 12.0
+         },
+         {
+           "b": "mustafa",
+           "d": 15.0
+         },
+         {
+           "b": "joshua",
+           "d": 15.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 12.0
+         },
+         {
+           "b": "mustafa",
+           "d": 16.0
+         },
+         {
+           "b": "joshua",
+           "d": 11.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 9.0
+         },
+         {
+           "b": "mustafa",
+           "d": 15.0
+         },
+         {
+           "b": "joshua",
+           "d": 13.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 8.25
+         },
+         {
+           "b": "mustafa",
+           "d": 10.0
+         },
+         {
+           "b": "joshua",
+           "d": 7.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 9.75
+         },
+         {
+           "b": "mustafa",
+           "s": "is out of power (and has no auxillary power)"
+         },
+         {
+           "b": "joshua",
+           "d": 15.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 9.0
+         },
+         {
+           "b": "joshua",
+           "d": 9.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 9.75
+         },
+         {
+           "b": "joshua",
+           "d": 13.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 12.0
+         },
+         {
+           "b": "joshua",
+           "d": 6.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 12.0
+         },
+         {
+           "b": "joshua",
+           "d": 10.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "s": "is out of power (and has no auxillary power)"
+         },
+         {
+           "b": "joshua",
+           "d": 5.0
+         }
+     ],
+     [
+         {
+           "b": "joshua",
+           "d": 11.0
+         }
+     ],
+     [
+         {
+           "b": "joshua",
+           "d": 10.0
+         }
+     ],
+     [
+         {
+           "b": "joshua",
+           "d": 3.0
+         }
+     ],
+     [
+         {
+           "b": "joshua",
+           "d": 10.0
+         }
+     ],
+     [
+         {
+           "b": "joshua",
+           "d": 8.0
+         }
+     ],
+     [
+         {
+           "b": "joshua",
+           "d": 12.0
+         }
+     ],
+     [
+         {
+           "b": "joshua",
+           "d": 15.0
+         }
+     ],
+     [
+         {
+           "b": "joshua",
+           "d": 9.0
+         }
+     ],
+     [
+         {
+           "b": "joshua",
+           "d": 8.0
+         }
+     ],
+     [
+         {
+           "b": "joshua",
+           "d": 13.0
+         }
+     ],
+     [
+         {
+           "b": "joshua",
+           "d": 5.0
+         }
+     ],
+     [
+         {
+           "b": "joshua",
+           "d": 6.0
+         }
+     ],
+     [
+         {
+           "b": "joshua",
+           "d": 9.0
+         }
+     ],
+     [
+         {
+           "b": "joshua",
+           "d": 9.0
+         }
+     ],
+     [
+         {
+           "b": "joshua",
+           "d": 11.0
+         }
+     ],
+     [
+         {
+           "b": "joshua",
+           "d": 16.0
+         }
+     ],
+     [
+         {
+           "b": "joshua",
+           "d": 8.0
+         }
+     ],
+     [
+         {
+           "b": "joshua",
+           "d": 13.0
+         }
+     ],
+     [
+         {
+           "b": "joshua",
+           "d": 11.0
+         }
+     ],
+     [
+         {
+           "b": "joshua",
+           "d": 10.0
+         }
+     ],
+     [
+         {
+           "b": "joshua",
+           "d": 10.0
+         }
+     ],
+     [
+         {
+           "b": "joshua",
+           "d": 14.0
+         }
+     ],
+     [
+         {
+           "b": "joshua",
+           "d": 7.0
+         }
+     ],
+     [
+         {
+           "b": "joshua",
+           "d": 8.0
+         }
+     ],
+     [
+         {
+           "b": "joshua",
+           "d": 7.0
+         }
+     ],
+     [
+         {
+           "b": "joshua",
+           "d": 12.0
+         }
+     ],
+     [
+         {
+           "b": "joshua",
+           "d": 9.0
+         }
+     ],
+     [
+         {
+           "b": "joshua",
+           "d": 6.0
+         }
+     ],
+     [
+         {
+           "b": "joshua",
+           "d": 15.0
+         },
+         {
+           "b": "joshua",
+           "s": "crosses the finish line in FIRST PLACE (2 lap race)"
+         }
+     ]
+   ],
   "version": "1.0"
 }

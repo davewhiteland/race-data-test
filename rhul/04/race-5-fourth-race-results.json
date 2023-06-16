@@ -157,5 +157,932 @@
       "violations_str": ""
     }
   ],
-  "version": "1.0"
+  "events": [
+     [
+         {
+           "b": "connor",
+           "d": 12.0
+         },
+         {
+           "b": "mustafa",
+           "d": 11.0
+         },
+         {
+           "b": "edry",
+           "s": "is out of power (and has no auxillary power)"
+         },
+         {
+           "b": "sahal",
+           "d": 14.0
+         },
+         {
+           "b": "natashah",
+           "d": 25.0
+         },
+         {
+           "b": "isaac",
+           "d": 7.0
+         },
+         {
+           "b": "kacper",
+           "d": 25.0
+         },
+         {
+           "b": "arbaaz",
+           "d": 9.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 10.0
+         },
+         {
+           "b": "mustafa",
+           "d": 12.0
+         },
+         {
+           "b": "sahal",
+           "d": 15.0
+         },
+         {
+           "b": "natashah",
+           "d": 29.0
+         },
+         {
+           "b": "isaac",
+           "d": 10.0
+         },
+         {
+           "b": "kacper",
+           "d": 33.0
+         },
+         {
+           "b": "arbaaz",
+           "d": 9.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 11.0
+         },
+         {
+           "b": "mustafa",
+           "d": 16.0
+         },
+         {
+           "b": "sahal",
+           "d": 12.0
+         },
+         {
+           "b": "natashah",
+           "d": 26.0
+         },
+         {
+           "b": "isaac",
+           "d": 11.0
+         },
+         {
+           "b": "kacper",
+           "d": 36.0
+         },
+         {
+           "b": "arbaaz",
+           "d": 10.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 10.0
+         },
+         {
+           "b": "mustafa",
+           "d": 10.0
+         },
+         {
+           "b": "sahal",
+           "d": 10.0
+         },
+         {
+           "b": "natashah",
+           "d": 19.0
+         },
+         {
+           "b": "isaac",
+           "d": 15.0
+         },
+         {
+           "b": "kacper",
+           "d": 38.0
+         },
+         {
+           "b": "arbaaz",
+           "d": 6.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 14.0
+         },
+         {
+           "b": "mustafa",
+           "d": 9.0
+         },
+         {
+           "b": "sahal",
+           "d": 14.0
+         },
+         {
+           "b": "natashah",
+           "d": 29.0
+         },
+         {
+           "b": "isaac",
+           "d": 12.0
+         },
+         {
+           "b": "kacper",
+           "d": 34.0
+         },
+         {
+           "b": "arbaaz",
+           "d": 5.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 14.0
+         },
+         {
+           "b": "mustafa",
+           "d": 12.0
+         },
+         {
+           "b": "sahal",
+           "d": 18.0
+         },
+         {
+           "b": "natashah",
+           "d": 30.0
+         },
+         {
+           "b": "isaac",
+           "d": 11.0
+         },
+         {
+           "b": "kacper",
+           "d": 21.0
+         },
+         {
+           "b": "arbaaz",
+           "d": 6.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 11.0
+         },
+         {
+           "b": "mustafa",
+           "d": 10.0
+         },
+         {
+           "b": "sahal",
+           "d": 10.0
+         },
+         {
+           "b": "natashah",
+           "d": 26.0
+         },
+         {
+           "b": "isaac",
+           "d": 14.0
+         },
+         {
+           "b": "kacper",
+           "d": 19.0
+         },
+         {
+           "b": "arbaaz",
+           "d": 8.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 8.0
+         },
+         {
+           "b": "mustafa",
+           "d": 6.0
+         },
+         {
+           "b": "sahal",
+           "d": 9.0
+         },
+         {
+           "b": "natashah",
+           "d": 34.0
+         },
+         {
+           "b": "isaac",
+           "d": 16.0
+         },
+         {
+           "b": "kacper",
+           "d": 31.0
+         },
+         {
+           "b": "arbaaz",
+           "d": 9.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 11.0
+         },
+         {
+           "b": "mustafa",
+           "d": 8.0
+         },
+         {
+           "b": "sahal",
+           "d": 13.0
+         },
+         {
+           "b": "natashah",
+           "d": 27.0
+         },
+         {
+           "b": "isaac",
+           "d": 10.0
+         },
+         {
+           "b": "kacper",
+           "d": 35.0
+         },
+         {
+           "b": "arbaaz",
+           "d": 9.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 7.0
+         },
+         {
+           "b": "mustafa",
+           "d": 9.0
+         },
+         {
+           "b": "sahal",
+           "d": 11.0
+         },
+         {
+           "b": "natashah",
+           "d": 25.0
+         },
+         {
+           "b": "isaac",
+           "d": 11.0
+         },
+         {
+           "b": "kacper",
+           "d": 24.0
+         },
+         {
+           "b": "arbaaz",
+           "d": 7.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 13.0
+         },
+         {
+           "b": "mustafa",
+           "d": 6.0
+         },
+         {
+           "b": "sahal",
+           "d": 13.0
+         },
+         {
+           "b": "natashah",
+           "d": 21.0
+         },
+         {
+           "b": "isaac",
+           "d": 13.0
+         },
+         {
+           "b": "kacper",
+           "d": 25.0
+         },
+         {
+           "b": "arbaaz",
+           "d": 7.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 12.0
+         },
+         {
+           "b": "mustafa",
+           "d": 11.0
+         },
+         {
+           "b": "sahal",
+           "d": 9.0
+         },
+         {
+           "b": "natashah",
+           "d": 31.0
+         },
+         {
+           "b": "isaac",
+           "d": 17.0
+         },
+         {
+           "b": "kacper",
+           "d": 31.0
+         },
+         {
+           "b": "arbaaz",
+           "d": 6.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 9.0
+         },
+         {
+           "b": "mustafa",
+           "d": 13.0
+         },
+         {
+           "b": "sahal",
+           "d": 12.0
+         },
+         {
+           "b": "natashah",
+           "d": 24.0
+         },
+         {
+           "b": "isaac",
+           "d": 9.0
+         },
+         {
+           "b": "kacper",
+           "d": 26.0
+         },
+         {
+           "b": "kacper",
+           "s": "crosses the finish line in FIRST PLACE (1 lap race)"
+         },
+         {
+           "b": "arbaaz",
+           "d": 9.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 16.0
+         },
+         {
+           "b": "mustafa",
+           "d": 9.0
+         },
+         {
+           "b": "sahal",
+           "d": 14.0
+         },
+         {
+           "b": "natashah",
+           "d": 31.0
+         },
+         {
+           "b": "natashah",
+           "s": "crosses the finish line in SECOND PLACE (1 lap race)"
+         },
+         {
+           "b": "isaac",
+           "d": 12.0
+         },
+         {
+           "b": "arbaaz",
+           "d": 6.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 17.0
+         },
+         {
+           "b": "mustafa",
+           "d": 6.0
+         },
+         {
+           "b": "sahal",
+           "d": 12.0
+         },
+         {
+           "b": "isaac",
+           "d": 12.0
+         },
+         {
+           "b": "arbaaz",
+           "d": 9.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 11.0
+         },
+         {
+           "b": "mustafa",
+           "d": 14.0
+         },
+         {
+           "b": "sahal",
+           "d": 15.0
+         },
+         {
+           "b": "isaac",
+           "d": 15.0
+         },
+         {
+           "b": "arbaaz",
+           "d": 5.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 13.0
+         },
+         {
+           "b": "mustafa",
+           "d": 13.0
+         },
+         {
+           "b": "sahal",
+           "d": 12.0
+         },
+         {
+           "b": "isaac",
+           "d": 14.0
+         },
+         {
+           "b": "arbaaz",
+           "d": 8.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 14.0
+         },
+         {
+           "b": "mustafa",
+           "d": 13.0
+         },
+         {
+           "b": "sahal",
+           "d": 5.0
+         },
+         {
+           "b": "isaac",
+           "d": 14.0
+         },
+         {
+           "b": "arbaaz",
+           "d": 8.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 10.0
+         },
+         {
+           "b": "mustafa",
+           "d": 7.0
+         },
+         {
+           "b": "sahal",
+           "d": 16.0
+         },
+         {
+           "b": "isaac",
+           "d": 10.0
+         },
+         {
+           "b": "arbaaz",
+           "d": 7.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 10.0
+         },
+         {
+           "b": "mustafa",
+           "d": 14.0
+         },
+         {
+           "b": "sahal",
+           "d": 14.0
+         },
+         {
+           "b": "isaac",
+           "d": 9.0
+         },
+         {
+           "b": "arbaaz",
+           "d": 10.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 12.0
+         },
+         {
+           "b": "mustafa",
+           "d": 11.0
+         },
+         {
+           "b": "sahal",
+           "d": 12.0
+         },
+         {
+           "b": "isaac",
+           "d": 13.0
+         },
+         {
+           "b": "arbaaz",
+           "d": 8.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 5.0
+         },
+         {
+           "b": "mustafa",
+           "d": 11.0
+         },
+         {
+           "b": "sahal",
+           "d": 11.0
+         },
+         {
+           "b": "isaac",
+           "d": 10.0
+         },
+         {
+           "b": "arbaaz",
+           "d": 6.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 17.0
+         },
+         {
+           "b": "mustafa",
+           "d": 12.0
+         },
+         {
+           "b": "sahal",
+           "d": 11.0
+         },
+         {
+           "b": "isaac",
+           "d": 15.0
+         },
+         {
+           "b": "arbaaz",
+           "d": 9.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 16.0
+         },
+         {
+           "b": "mustafa",
+           "d": 17.0
+         },
+         {
+           "b": "sahal",
+           "d": 19.0
+         },
+         {
+           "b": "isaac",
+           "d": 11.0
+         },
+         {
+           "b": "arbaaz",
+           "d": 11.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 14.0
+         },
+         {
+           "b": "mustafa",
+           "d": 10.0
+         },
+         {
+           "b": "sahal",
+           "d": 11.0
+         },
+         {
+           "b": "isaac",
+           "d": 10.0
+         },
+         {
+           "b": "arbaaz",
+           "d": 6.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 13.0
+         },
+         {
+           "b": "mustafa",
+           "d": 11.0
+         },
+         {
+           "b": "sahal",
+           "d": 16.0
+         },
+         {
+           "b": "isaac",
+           "d": 15.0
+         },
+         {
+           "b": "arbaaz",
+           "d": 5.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 16.0
+         },
+         {
+           "b": "mustafa",
+           "d": 13.0
+         },
+         {
+           "b": "sahal",
+           "d": 11.0
+         },
+         {
+           "b": "isaac",
+           "d": 12.0
+         },
+         {
+           "b": "arbaaz",
+           "d": 6.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 7.0
+         },
+         {
+           "b": "connor",
+           "e": "p",
+           "s": "puncture! now running on 3 of 4 wheels"
+         },
+         {
+           "b": "mustafa",
+           "d": 8.0
+         },
+         {
+           "b": "sahal",
+           "d": 13.0
+         },
+         {
+           "b": "isaac",
+           "d": 10.0
+         },
+         {
+           "b": "arbaaz",
+           "d": 6.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 9.0
+         },
+         {
+           "b": "mustafa",
+           "d": 11.0
+         },
+         {
+           "b": "sahal",
+           "d": 13.0
+         },
+         {
+           "b": "sahal",
+           "s": "crosses the finish line in THIRD PLACE (1 lap race)"
+         },
+         {
+           "b": "isaac",
+           "d": 13.0
+         },
+         {
+           "b": "arbaaz",
+           "d": 5.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 6.0
+         },
+         {
+           "b": "mustafa",
+           "d": 14.0
+         },
+         {
+           "b": "isaac",
+           "d": 8.0
+         },
+         {
+           "b": "isaac",
+           "s": "crosses the finish line in 4th place (1 lap race)"
+         },
+         {
+           "b": "arbaaz",
+           "d": 8.0
+         }
+     ],
+     [
+         {
+           "b": "connor",
+           "d": 9.75
+         },
+         {
+           "b": "connor",
+           "s": "crosses the finish line in 5th place (1 lap race)"
+         },
+         {
+           "b": "mustafa",
+           "d": 12.0
+         },
+         {
+           "b": "arbaaz",
+           "d": 7.0
+         }
+     ],
+     [
+         {
+           "b": "mustafa",
+           "d": 15.0
+         },
+         {
+           "b": "arbaaz",
+           "d": 6.0
+         }
+     ],
+     [
+         {
+           "b": "mustafa",
+           "d": 12.0
+         },
+         {
+           "b": "mustafa",
+           "s": "crosses the finish line in 6th place (1 lap race)"
+         },
+         {
+           "b": "arbaaz",
+           "d": 5.0
+         }
+     ],
+     [
+         {
+           "b": "arbaaz",
+           "d": 6.0
+         }
+     ],
+     [
+         {
+           "b": "arbaaz",
+           "d": 10.0
+         }
+     ],
+     [
+         {
+           "b": "arbaaz",
+           "d": 8.0
+         }
+     ],
+     [
+         {
+           "b": "arbaaz",
+           "d": 7.0
+         }
+     ],
+     [
+         {
+           "b": "arbaaz",
+           "d": 8.0
+         }
+     ],
+     [
+         {
+           "b": "arbaaz",
+           "d": 7.0
+         }
+     ],
+     [
+         {
+           "b": "arbaaz",
+           "d": 6.0
+         }
+     ],
+     [
+         {
+           "b": "arbaaz",
+           "d": 11.0
+         }
+     ],
+     [
+         {
+           "b": "arbaaz",
+           "d": 8.0
+         }
+     ],
+     [
+         {
+           "b": "arbaaz",
+           "d": 12.0
+         }
+     ],
+     [
+         {
+           "b": "arbaaz",
+           "d": 5.0
+         }
+     ],
+     [
+         {
+           "b": "arbaaz",
+           "d": 11.0
+         }
+     ],
+     [
+         {
+           "b": "arbaaz",
+           "d": 6.0
+         }
+     ],
+     [
+         {
+           "b": "arbaaz",
+           "d": 7.0
+         }
+     ],
+     [
+         {
+           "b": "arbaaz",
+           "d": 5.0
+         },
+         {
+           "b": "arbaaz",
+           "s": "crosses the finish line in 7th place (1 lap race)"
+         }
+     ]
+   ],
+   "version": "1.0"
 }
