@@ -1,0 +1,2574 @@
+{
+  "race_file_url": "https://rhul.buggyrace.net/races/34/race-file",
+  "title": "Season opener",
+  "description": "Racing in the dry, rocky desert. [Alternative reality where Felix is a student]",
+  "cost_limit": 500,
+  "max_laps": 2,
+  "track_image_url": "https://rhul.buggyrace.net//races/assets/tracks/racetrack-03.jpg",
+  "track_svg_url": "https://rhul.buggyrace.net//races/assets/tracks/racetrack-03-path-429.svg",
+  "league": "",
+  "start_at": "2025-05-27 15:30",
+  "raced_at": "2025-05-27 16:22:36",
+  "buggies_entered": 16,
+  "buggies_started": 10,
+  "buggies_finished": 2,
+  "buggies": [
+    {
+      "username": "anab",
+      "user_id": 366,
+      "flag_color": "#888888",
+      "flag_color_secondary": "black",
+      "flag_pattern": "plain",
+      "cost": 64,
+      "race_position": -1,
+      "violations_str": "ENOUGH_TYRES"
+    },
+    {
+      "username": "hashim",
+      "user_id": 311,
+      "flag_color": "#888888",
+      "flag_color_secondary": "black",
+      "flag_pattern": "plain",
+      "cost": 64,
+      "race_position": -1,
+      "violations_str": "ENOUGH_TYRES"
+    },
+    {
+      "username": "mazin",
+      "user_id": 361,
+      "flag_color": "blue",
+      "flag_color_secondary": "black",
+      "flag_pattern": "plain",
+      "cost": 64,
+      "race_position": -1,
+      "violations_str": "EVEN_WHEELS,ENOUGH_TYRES"
+    },
+    {
+      "username": "saher",
+      "user_id": 319,
+      "flag_color": "red",
+      "flag_color_secondary": "blue",
+      "flag_pattern": "plain",
+      "cost": 544,
+      "race_position": -1,
+      "violations_str": "RACE_COST_THRESHOLD"
+    },
+    {
+      "username": "riyad",
+      "user_id": 318,
+      "flag_color": "red",
+      "flag_color_secondary": "black",
+      "flag_pattern": "spot",
+      "cost": 880,
+      "race_position": -1,
+      "violations_str": "RACE_COST_THRESHOLD"
+    },
+    {
+      "username": "liutauras",
+      "user_id": 310,
+      "flag_color": "#6942f5",
+      "flag_color_secondary": "black",
+      "flag_pattern": "check",
+      "cost": 28500,
+      "race_position": -1,
+      "violations_str": "RACE_COST_THRESHOLD"
+    },
+    {
+      "username": "rona",
+      "user_id": 383,
+      "flag_color": "blue",
+      "flag_color_secondary": "black",
+      "flag_pattern": "plain",
+      "cost": 200,
+      "race_position": 1,
+      "violations_str": ""
+    },
+    {
+      "username": "felix",
+      "user_id": 67,
+      "flag_color": "#008080",
+      "flag_color_secondary": "#20aaaa",
+      "flag_pattern": "spot",
+      "cost": 490,
+      "race_position": 2,
+      "violations_str": ""
+    },
+    {
+      "username": "fawad",
+      "user_id": 384,
+      "flag_color": "black",
+      "flag_color_secondary": "black",
+      "flag_pattern": "plain",
+      "cost": 324,
+      "race_position": 3,
+      "violations_str": ""
+    },
+    {
+      "username": "moiz",
+      "user_id": 352,
+      "flag_color": "blue",
+      "flag_color_secondary": "black",
+      "flag_pattern": "plain",
+      "cost": 64,
+      "race_position": 4,
+      "violations_str": ""
+    },
+    {
+      "username": "mandy",
+      "user_id": 1,
+      "flag_color": "#888888",
+      "flag_color_secondary": "black",
+      "flag_pattern": "plain",
+      "cost": 64,
+      "race_position": 5,
+      "violations_str": ""
+    },
+    {
+      "username": "sarbjit",
+      "user_id": 394,
+      "flag_color": "#888888",
+      "flag_color_secondary": "black",
+      "flag_pattern": "plain",
+      "cost": 64,
+      "race_position": 6,
+      "violations_str": ""
+    },
+    {
+      "username": "jasmine",
+      "user_id": 350,
+      "flag_color": "yellow",
+      "flag_color_secondary": "black",
+      "flag_pattern": "plain",
+      "cost": 64,
+      "race_position": 7,
+      "violations_str": ""
+    },
+    {
+      "username": "abdirahman",
+      "user_id": 385,
+      "flag_color": "#888888",
+      "flag_color_secondary": "black",
+      "flag_pattern": "plain",
+      "cost": 64,
+      "race_position": 8,
+      "violations_str": ""
+    },
+    {
+      "username": "dylan",
+      "user_id": 326,
+      "flag_color": "#888888",
+      "flag_color_secondary": "black",
+      "flag_pattern": "plain",
+      "cost": 64,
+      "race_position": 9,
+      "violations_str": ""
+    },
+    {
+      "username": "viet",
+      "user_id": 299,
+      "flag_color": "red",
+      "flag_color_secondary": "black",
+      "flag_pattern": "plain",
+      "cost": 64,
+      "race_position": 10,
+      "violations_str": ""
+    }
+  ],
+  "events": [
+    [
+      {
+        "b": "abdirahman",
+        "d": 12.0
+      },
+      {
+        "b": "dylan",
+        "d": 13.0
+      },
+      {
+        "b": "fawad",
+        "d": 15.0
+      },
+      {
+        "b": "felix",
+        "d": 13.0
+      },
+      {
+        "b": "jasmine",
+        "d": 13.0
+      },
+      {
+        "b": "mandy",
+        "d": 9.0
+      },
+      {
+        "b": "moiz",
+        "d": 15.0
+      },
+      {
+        "b": "rona",
+        "d": 13.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 17.0
+      },
+      {
+        "b": "viet",
+        "d": 17.0
+      }
+    ],
+    [
+      {
+        "b": "felix",
+        "e": "ab",
+        "s": "attacks [rona] with biohazard"
+      },
+      {
+        "b": "rona",
+        "e": "s",
+        "s": "now at 13% damage"
+      },
+      {
+        "b": "abdirahman",
+        "d": 9.0
+      },
+      {
+        "b": "viet",
+        "d": 9.0
+      },
+      {
+        "b": "jasmine",
+        "d": 15.0
+      },
+      {
+        "b": "mandy",
+        "d": 14.0
+      },
+      {
+        "b": "dylan",
+        "d": 10.0
+      },
+      {
+        "b": "fawad",
+        "d": 8.0
+      },
+      {
+        "b": "felix",
+        "d": 13.0
+      },
+      {
+        "b": "moiz",
+        "d": 10.0
+      },
+      {
+        "b": "rona",
+        "d": 12.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 10.0
+      }
+    ],
+    [
+      {
+        "b": "felix",
+        "e": "ab",
+        "s": "attacks [sarbjit] with biohazard"
+      },
+      {
+        "b": "felix",
+        "e": "s",
+        "s": "suffers karmic self-injury: now 17% damage"
+      },
+      {
+        "b": "abdirahman",
+        "d": 11.0
+      },
+      {
+        "b": "moiz",
+        "d": 15.0
+      },
+      {
+        "b": "viet",
+        "d": 9.0
+      },
+      {
+        "b": "felix",
+        "d": 7.0
+      },
+      {
+        "b": "rona",
+        "d": 19.0
+      },
+      {
+        "b": "jasmine",
+        "d": 17.0
+      },
+      {
+        "b": "mandy",
+        "d": 13.0
+      },
+      {
+        "b": "fawad",
+        "d": 7.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 12.0
+      },
+      {
+        "b": "dylan",
+        "d": 14.0
+      }
+    ],
+    [
+      {
+        "b": "felix",
+        "e": "ab",
+        "s": "attacks [viet] with biohazard"
+      },
+      {
+        "b": "viet",
+        "e": "s",
+        "s": "now at 21% damage"
+      },
+      {
+        "b": "abdirahman",
+        "d": 13.0
+      },
+      {
+        "b": "felix",
+        "d": 6.0
+      },
+      {
+        "b": "fawad",
+        "d": 11.0
+      },
+      {
+        "b": "rona",
+        "d": 13.0
+      },
+      {
+        "b": "moiz",
+        "d": 10.0
+      },
+      {
+        "b": "dylan",
+        "d": 16.0
+      },
+      {
+        "b": "mandy",
+        "d": 17.0
+      },
+      {
+        "b": "viet",
+        "d": 14.0
+      },
+      {
+        "b": "jasmine",
+        "d": 9.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 14.0
+      }
+    ],
+    [
+      {
+        "b": "felix",
+        "e": "ab",
+        "s": "attacks [fawad] with biohazard"
+      },
+      {
+        "b": "fawad",
+        "e": "s",
+        "s": "now at 25% damage"
+      },
+      {
+        "b": "felix",
+        "e": "s",
+        "s": "has no attacks left"
+      },
+      {
+        "b": "sarbjit",
+        "d": 19.0
+      },
+      {
+        "b": "dylan",
+        "d": 15.0
+      },
+      {
+        "b": "fawad",
+        "d": 16.0
+      },
+      {
+        "b": "moiz",
+        "d": 17.0
+      },
+      {
+        "b": "felix",
+        "d": 6.0
+      },
+      {
+        "b": "rona",
+        "d": 15.0
+      },
+      {
+        "b": "jasmine",
+        "d": 15.0
+      },
+      {
+        "b": "viet",
+        "d": 11.0
+      },
+      {
+        "b": "abdirahman",
+        "d": 15.0
+      },
+      {
+        "b": "mandy",
+        "d": 11.0
+      }
+    ],
+    [
+      {
+        "b": "mandy",
+        "d": 15.0
+      },
+      {
+        "b": "fawad",
+        "d": 15.0
+      },
+      {
+        "b": "dylan",
+        "d": 15.0
+      },
+      {
+        "b": "rona",
+        "d": 12.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 12.0
+      },
+      {
+        "b": "jasmine",
+        "d": 15.0
+      },
+      {
+        "b": "abdirahman",
+        "d": 13.0
+      },
+      {
+        "b": "moiz",
+        "d": 11.0
+      },
+      {
+        "b": "viet",
+        "d": 11.0
+      },
+      {
+        "b": "felix",
+        "d": 7.0
+      }
+    ],
+    [
+      {
+        "b": "rona",
+        "d": 11.0
+      },
+      {
+        "b": "abdirahman",
+        "d": 12.0
+      },
+      {
+        "b": "mandy",
+        "d": 13.0
+      },
+      {
+        "b": "fawad",
+        "d": 15.0
+      },
+      {
+        "b": "viet",
+        "d": 15.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 16.0
+      },
+      {
+        "b": "felix",
+        "d": 13.0
+      },
+      {
+        "b": "jasmine",
+        "d": 13.0
+      },
+      {
+        "b": "dylan",
+        "d": 10.0
+      },
+      {
+        "b": "moiz",
+        "d": 13.0
+      }
+    ],
+    [
+      {
+        "b": "dylan",
+        "d": 14.0
+      },
+      {
+        "b": "jasmine",
+        "d": 16.0
+      },
+      {
+        "b": "viet",
+        "d": 14.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 13.0
+      },
+      {
+        "b": "mandy",
+        "d": 15.0
+      },
+      {
+        "b": "rona",
+        "d": 12.0
+      },
+      {
+        "b": "abdirahman",
+        "d": 16.0
+      },
+      {
+        "b": "fawad",
+        "d": 18.0
+      },
+      {
+        "b": "felix",
+        "e": "s",
+        "s": "all damage repaired"
+      },
+      {
+        "b": "felix",
+        "d": 13.0
+      },
+      {
+        "b": "moiz",
+        "d": 14.0
+      }
+    ],
+    [
+      {
+        "b": "abdirahman",
+        "d": 8.0
+      },
+      {
+        "b": "dylan",
+        "d": 9.0
+      },
+      {
+        "b": "dylan",
+        "e": "p",
+        "s": "puncture! now running on 3 of 4 wheels"
+      },
+      {
+        "b": "rona",
+        "d": 11.0
+      },
+      {
+        "b": "moiz",
+        "d": 17.0
+      },
+      {
+        "b": "fawad",
+        "d": 13.0
+      },
+      {
+        "b": "felix",
+        "d": 9.0
+      },
+      {
+        "b": "mandy",
+        "d": 13.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 11.0
+      },
+      {
+        "b": "viet",
+        "d": 11.0
+      },
+      {
+        "b": "jasmine",
+        "d": 17.0
+      }
+    ],
+    [
+      {
+        "b": "jasmine",
+        "d": 12.0
+      },
+      {
+        "b": "felix",
+        "d": 13.0
+      },
+      {
+        "b": "mandy",
+        "d": 14.0
+      },
+      {
+        "b": "abdirahman",
+        "d": 11.0
+      },
+      {
+        "b": "moiz",
+        "d": 14.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 16.0
+      },
+      {
+        "b": "viet",
+        "d": 13.0
+      },
+      {
+        "b": "fawad",
+        "d": 14.0
+      },
+      {
+        "b": "dylan",
+        "d": 12.75
+      },
+      {
+        "b": "rona",
+        "d": 12.0
+      }
+    ],
+    [
+      {
+        "b": "abdirahman",
+        "d": 12.0
+      },
+      {
+        "b": "jasmine",
+        "d": 14.0
+      },
+      {
+        "b": "fawad",
+        "d": 11.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 13.0
+      },
+      {
+        "b": "moiz",
+        "d": 8.0
+      },
+      {
+        "b": "dylan",
+        "d": 10.5
+      },
+      {
+        "b": "rona",
+        "d": 7.0
+      },
+      {
+        "b": "viet",
+        "d": 9.0
+      },
+      {
+        "b": "felix",
+        "d": 13.0
+      },
+      {
+        "b": "mandy",
+        "d": 13.0
+      }
+    ],
+    [
+      {
+        "b": "dylan",
+        "d": 11.25
+      },
+      {
+        "b": "viet",
+        "d": 16.0
+      },
+      {
+        "b": "moiz",
+        "d": 15.0
+      },
+      {
+        "b": "fawad",
+        "d": 15.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 15.0
+      },
+      {
+        "b": "rona",
+        "d": 15.0
+      },
+      {
+        "b": "abdirahman",
+        "d": 12.0
+      },
+      {
+        "b": "mandy",
+        "d": 13.0
+      },
+      {
+        "b": "felix",
+        "d": 15.0
+      },
+      {
+        "b": "jasmine",
+        "d": 9.0
+      }
+    ],
+    [
+      {
+        "b": "dylan",
+        "d": 7.5
+      },
+      {
+        "b": "rona",
+        "d": 16.0
+      },
+      {
+        "b": "abdirahman",
+        "d": 14.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 15.0
+      },
+      {
+        "b": "mandy",
+        "d": 14.0
+      },
+      {
+        "b": "viet",
+        "d": 11.0
+      },
+      {
+        "b": "fawad",
+        "d": 8.0
+      },
+      {
+        "b": "moiz",
+        "d": 16.0
+      },
+      {
+        "b": "jasmine",
+        "d": 9.0
+      },
+      {
+        "b": "felix",
+        "d": 13.0
+      }
+    ],
+    [
+      {
+        "b": "viet",
+        "d": 14.0
+      },
+      {
+        "b": "dylan",
+        "d": 9.75
+      },
+      {
+        "b": "sarbjit",
+        "d": 16.0
+      },
+      {
+        "b": "mandy",
+        "d": 11.0
+      },
+      {
+        "b": "felix",
+        "d": 11.0
+      },
+      {
+        "b": "moiz",
+        "d": 14.0
+      },
+      {
+        "b": "abdirahman",
+        "d": 8.0
+      },
+      {
+        "b": "jasmine",
+        "d": 14.0
+      },
+      {
+        "b": "rona",
+        "d": 15.0
+      },
+      {
+        "b": "fawad",
+        "d": 7.0
+      }
+    ],
+    [
+      {
+        "b": "mandy",
+        "d": 16.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 13.0
+      },
+      {
+        "b": "fawad",
+        "d": 20.0
+      },
+      {
+        "b": "jasmine",
+        "d": 14.0
+      },
+      {
+        "b": "dylan",
+        "d": 9.75
+      },
+      {
+        "b": "felix",
+        "d": 16.0
+      },
+      {
+        "b": "viet",
+        "d": 9.0
+      },
+      {
+        "b": "moiz",
+        "d": 8.0
+      },
+      {
+        "b": "abdirahman",
+        "d": 10.0
+      },
+      {
+        "b": "rona",
+        "d": 12.0
+      }
+    ],
+    [
+      {
+        "b": "jasmine",
+        "d": 14.0
+      },
+      {
+        "b": "fawad",
+        "d": 12.0
+      },
+      {
+        "b": "mandy",
+        "d": 14.0
+      },
+      {
+        "b": "dylan",
+        "d": 8.25
+      },
+      {
+        "b": "viet",
+        "d": 11.0
+      },
+      {
+        "b": "viet",
+        "e": "p",
+        "s": "puncture! now running on 3 of 4 wheels"
+      },
+      {
+        "b": "rona",
+        "d": 19.0
+      },
+      {
+        "b": "moiz",
+        "d": 14.0
+      },
+      {
+        "b": "felix",
+        "d": 14.0
+      },
+      {
+        "b": "abdirahman",
+        "d": 11.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 14.0
+      }
+    ],
+    [
+      {
+        "b": "moiz",
+        "d": 13.0
+      },
+      {
+        "b": "dylan",
+        "d": 5.25
+      },
+      {
+        "b": "fawad",
+        "d": 19.0
+      },
+      {
+        "b": "viet",
+        "d": 8.25
+      },
+      {
+        "b": "jasmine",
+        "d": 9.0
+      },
+      {
+        "b": "mandy",
+        "d": 9.0
+      },
+      {
+        "b": "abdirahman",
+        "d": 15.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 11.0
+      },
+      {
+        "b": "felix",
+        "d": 13.0
+      },
+      {
+        "b": "rona",
+        "d": 11.0
+      }
+    ],
+    [
+      {
+        "b": "abdirahman",
+        "d": 16.0
+      },
+      {
+        "b": "dylan",
+        "d": 8.25
+      },
+      {
+        "b": "moiz",
+        "d": 10.0
+      },
+      {
+        "b": "rona",
+        "d": 14.0
+      },
+      {
+        "b": "felix",
+        "d": 9.0
+      },
+      {
+        "b": "fawad",
+        "d": 8.0
+      },
+      {
+        "b": "mandy",
+        "d": 10.0
+      },
+      {
+        "b": "viet",
+        "d": 11.25
+      },
+      {
+        "b": "jasmine",
+        "d": 8.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 11.0
+      }
+    ],
+    [
+      {
+        "b": "felix",
+        "d": 8.0
+      },
+      {
+        "b": "mandy",
+        "d": 11.0
+      },
+      {
+        "b": "viet",
+        "d": 12.0
+      },
+      {
+        "b": "viet",
+        "e": "p",
+        "s": "puncture! now running on 2 of 4 wheels"
+      },
+      {
+        "b": "fawad",
+        "d": 17.0
+      },
+      {
+        "b": "dylan",
+        "d": 9.75
+      },
+      {
+        "b": "moiz",
+        "d": 13.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 8.0
+      },
+      {
+        "b": "abdirahman",
+        "d": 8.0
+      },
+      {
+        "b": "rona",
+        "d": 12.0
+      },
+      {
+        "b": "jasmine",
+        "d": 14.0
+      }
+    ],
+    [
+      {
+        "b": "dylan",
+        "d": 7.5
+      },
+      {
+        "b": "rona",
+        "d": 7.0
+      },
+      {
+        "b": "fawad",
+        "d": 14.0
+      },
+      {
+        "b": "felix",
+        "d": 11.0
+      },
+      {
+        "b": "mandy",
+        "d": 16.0
+      },
+      {
+        "b": "abdirahman",
+        "d": 8.0
+      },
+      {
+        "b": "viet",
+        "d": 8.5
+      },
+      {
+        "b": "moiz",
+        "d": 14.0
+      },
+      {
+        "b": "jasmine",
+        "d": 17.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 9.0
+      }
+    ],
+    [
+      {
+        "b": "mandy",
+        "d": 14.0
+      },
+      {
+        "b": "rona",
+        "d": 18.0
+      },
+      {
+        "b": "abdirahman",
+        "d": 14.0
+      },
+      {
+        "b": "moiz",
+        "d": 10.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 13.0
+      },
+      {
+        "b": "felix",
+        "d": 9.0
+      },
+      {
+        "b": "viet",
+        "d": 7.5
+      },
+      {
+        "b": "fawad",
+        "d": 17.0
+      },
+      {
+        "b": "jasmine",
+        "d": 12.0
+      },
+      {
+        "b": "dylan",
+        "d": 9.0
+      }
+    ],
+    [
+      {
+        "b": "sarbjit",
+        "d": 12.0
+      },
+      {
+        "b": "viet",
+        "d": 7.5
+      },
+      {
+        "b": "moiz",
+        "d": 15.0
+      },
+      {
+        "b": "felix",
+        "d": 13.0
+      },
+      {
+        "b": "mandy",
+        "d": 11.0
+      },
+      {
+        "b": "dylan",
+        "d": 6.0
+      },
+      {
+        "b": "rona",
+        "d": 15.0
+      },
+      {
+        "b": "fawad",
+        "d": 15.0
+      },
+      {
+        "b": "abdirahman",
+        "d": 12.0
+      },
+      {
+        "b": "jasmine",
+        "d": 12.0
+      }
+    ],
+    [
+      {
+        "b": "viet",
+        "d": 6.5
+      },
+      {
+        "b": "felix",
+        "d": 11.0
+      },
+      {
+        "b": "abdirahman",
+        "d": 15.0
+      },
+      {
+        "b": "rona",
+        "d": 15.0
+      },
+      {
+        "b": "moiz",
+        "d": 12.0
+      },
+      {
+        "b": "dylan",
+        "d": 9.0
+      },
+      {
+        "b": "fawad",
+        "d": 9.0
+      },
+      {
+        "b": "mandy",
+        "d": 13.0
+      },
+      {
+        "b": "jasmine",
+        "d": 9.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 15.0
+      }
+    ],
+    [
+      {
+        "b": "mandy",
+        "d": 14.0
+      },
+      {
+        "b": "rona",
+        "d": 18.0
+      },
+      {
+        "b": "moiz",
+        "d": 16.0
+      },
+      {
+        "b": "jasmine",
+        "d": 16.0
+      },
+      {
+        "b": "abdirahman",
+        "d": 16.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 9.0
+      },
+      {
+        "b": "felix",
+        "d": 11.0
+      },
+      {
+        "b": "fawad",
+        "d": 10.0
+      },
+      {
+        "b": "dylan",
+        "d": 11.25
+      },
+      {
+        "b": "viet",
+        "d": 6.0
+      }
+    ],
+    [
+      {
+        "b": "sarbjit",
+        "d": 14.0
+      },
+      {
+        "b": "mandy",
+        "d": 20.0
+      },
+      {
+        "b": "abdirahman",
+        "d": 14.0
+      },
+      {
+        "b": "moiz",
+        "d": 7.0
+      },
+      {
+        "b": "jasmine",
+        "d": 16.0
+      },
+      {
+        "b": "viet",
+        "d": 7.0
+      },
+      {
+        "b": "dylan",
+        "d": 11.25
+      },
+      {
+        "b": "fawad",
+        "d": 12.0
+      },
+      {
+        "b": "rona",
+        "d": 7.0
+      },
+      {
+        "b": "felix",
+        "d": 13.0
+      }
+    ],
+    [
+      {
+        "b": "moiz",
+        "d": 14.0
+      },
+      {
+        "b": "viet",
+        "d": 7.5
+      },
+      {
+        "b": "felix",
+        "d": 10.0
+      },
+      {
+        "b": "mandy",
+        "d": 10.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 15.0
+      },
+      {
+        "b": "sarbjit",
+        "e": "p",
+        "s": "puncture! now running on 3 of 4 wheels"
+      },
+      {
+        "b": "dylan",
+        "d": 6.0
+      },
+      {
+        "b": "abdirahman",
+        "d": 8.0
+      },
+      {
+        "b": "rona",
+        "d": 13.0
+      },
+      {
+        "b": "fawad",
+        "d": 16.0
+      },
+      {
+        "b": "jasmine",
+        "d": 10.0
+      },
+      {
+        "b": "jasmine",
+        "e": "p",
+        "s": "puncture! now running on 3 of 4 wheels"
+      }
+    ],
+    [
+      {
+        "b": "viet",
+        "d": 7.5
+      },
+      {
+        "b": "moiz",
+        "d": 16.0
+      },
+      {
+        "b": "mandy",
+        "d": 13.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 7.5
+      },
+      {
+        "b": "rona",
+        "d": 17.0
+      },
+      {
+        "b": "fawad",
+        "d": 14.0
+      },
+      {
+        "b": "jasmine",
+        "d": 7.5
+      },
+      {
+        "b": "felix",
+        "d": 16.0
+      },
+      {
+        "b": "dylan",
+        "d": 12.0
+      },
+      {
+        "b": "abdirahman",
+        "d": 13.0
+      }
+    ],
+    [
+      {
+        "b": "abdirahman",
+        "d": 15.0
+      },
+      {
+        "b": "rona",
+        "d": 13.0
+      },
+      {
+        "b": "jasmine",
+        "d": 10.5
+      },
+      {
+        "b": "sarbjit",
+        "d": 14.25
+      },
+      {
+        "b": "viet",
+        "d": 6.5
+      },
+      {
+        "b": "felix",
+        "d": 15.0
+      },
+      {
+        "b": "mandy",
+        "d": 7.0
+      },
+      {
+        "b": "moiz",
+        "d": 14.0
+      },
+      {
+        "b": "dylan",
+        "d": 9.0
+      },
+      {
+        "b": "fawad",
+        "d": 16.0
+      }
+    ],
+    [
+      {
+        "b": "fawad",
+        "d": 11.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 6.75
+      },
+      {
+        "b": "jasmine",
+        "d": 9.0
+      },
+      {
+        "b": "mandy",
+        "d": 12.0
+      },
+      {
+        "b": "abdirahman",
+        "d": 13.0
+      },
+      {
+        "b": "felix",
+        "d": 13.0
+      },
+      {
+        "b": "rona",
+        "d": 16.0
+      },
+      {
+        "b": "moiz",
+        "d": 7.0
+      },
+      {
+        "b": "dylan",
+        "d": 9.0
+      },
+      {
+        "b": "viet",
+        "d": 8.0
+      }
+    ],
+    [
+      {
+        "b": "sarbjit",
+        "d": 10.5
+      },
+      {
+        "b": "dylan",
+        "d": 10.5
+      },
+      {
+        "b": "viet",
+        "d": 7.5
+      },
+      {
+        "b": "mandy",
+        "d": 15.0
+      },
+      {
+        "b": "moiz",
+        "d": 17.0
+      },
+      {
+        "b": "abdirahman",
+        "d": 10.0
+      },
+      {
+        "b": "rona",
+        "d": 11.0
+      },
+      {
+        "b": "felix",
+        "d": 17.0
+      },
+      {
+        "b": "jasmine",
+        "d": 10.5
+      },
+      {
+        "b": "fawad",
+        "d": 16.0
+      }
+    ],
+    [
+      {
+        "b": "abdirahman",
+        "d": 14.0
+      },
+      {
+        "b": "moiz",
+        "d": 13.0
+      },
+      {
+        "b": "felix",
+        "d": 12.0
+      },
+      {
+        "b": "dylan",
+        "d": 8.25
+      },
+      {
+        "b": "jasmine",
+        "d": 10.5
+      },
+      {
+        "b": "rona",
+        "d": 13.0
+      },
+      {
+        "b": "mandy",
+        "d": 16.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 6.75
+      },
+      {
+        "b": "fawad",
+        "d": 9.0
+      },
+      {
+        "b": "viet",
+        "d": 7.5
+      }
+    ],
+    [
+      {
+        "b": "sarbjit",
+        "d": 12.0
+      },
+      {
+        "b": "fawad",
+        "d": 13.0
+      },
+      {
+        "b": "moiz",
+        "d": 12.0
+      },
+      {
+        "b": "mandy",
+        "d": 16.0
+      },
+      {
+        "b": "rona",
+        "d": 11.0
+      },
+      {
+        "b": "dylan",
+        "d": 8.25
+      },
+      {
+        "b": "abdirahman",
+        "d": 8.0
+      },
+      {
+        "b": "viet",
+        "d": 8.5
+      },
+      {
+        "b": "felix",
+        "d": 10.0
+      },
+      {
+        "b": "jasmine",
+        "d": 11.25
+      }
+    ],
+    [
+      {
+        "b": "jasmine",
+        "d": 14.25
+      },
+      {
+        "b": "dylan",
+        "d": 12.75
+      },
+      {
+        "b": "abdirahman",
+        "d": 12.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 9.75
+      },
+      {
+        "b": "mandy",
+        "d": 14.0
+      },
+      {
+        "b": "felix",
+        "d": 12.0
+      },
+      {
+        "b": "rona",
+        "d": 11.0
+      },
+      {
+        "b": "moiz",
+        "d": 13.0
+      },
+      {
+        "b": "fawad",
+        "d": 10.0
+      },
+      {
+        "b": "viet",
+        "d": 5.5
+      }
+    ],
+    [
+      {
+        "b": "moiz",
+        "d": 15.0
+      },
+      {
+        "b": "fawad",
+        "d": 11.0
+      },
+      {
+        "b": "felix",
+        "d": 14.0
+      },
+      {
+        "b": "jasmine",
+        "d": 6.0
+      },
+      {
+        "b": "dylan",
+        "d": 7.5
+      },
+      {
+        "b": "mandy",
+        "d": 18.0
+      },
+      {
+        "b": "viet",
+        "d": 8.5
+      },
+      {
+        "b": "abdirahman",
+        "d": 9.0
+      },
+      {
+        "b": "rona",
+        "d": 12.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 9.0
+      }
+    ],
+    [
+      {
+        "b": "mandy",
+        "d": 11.0
+      },
+      {
+        "b": "fawad",
+        "d": 10.0
+      },
+      {
+        "b": "viet",
+        "d": 5.0
+      },
+      {
+        "b": "dylan",
+        "d": 6.75
+      },
+      {
+        "b": "jasmine",
+        "d": 8.25
+      },
+      {
+        "b": "abdirahman",
+        "d": 15.0
+      },
+      {
+        "b": "rona",
+        "d": 14.0
+      },
+      {
+        "b": "moiz",
+        "d": 17.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 8.25
+      },
+      {
+        "b": "felix",
+        "d": 16.0
+      }
+    ],
+    [
+      {
+        "b": "sarbjit",
+        "d": 12.75
+      },
+      {
+        "b": "jasmine",
+        "d": 11.25
+      },
+      {
+        "b": "dylan",
+        "d": 10.5
+      },
+      {
+        "b": "felix",
+        "d": 9.0
+      },
+      {
+        "b": "mandy",
+        "d": 16.0
+      },
+      {
+        "b": "mandy",
+        "e": "p",
+        "s": "puncture! now running on 3 of 4 wheels"
+      },
+      {
+        "b": "abdirahman",
+        "d": 13.0
+      },
+      {
+        "b": "fawad",
+        "d": 17.0
+      },
+      {
+        "b": "moiz",
+        "d": 9.0
+      },
+      {
+        "b": "rona",
+        "d": 17.0
+      },
+      {
+        "b": "viet",
+        "d": 5.0
+      }
+    ],
+    [
+      {
+        "b": "mandy",
+        "d": 8.25
+      },
+      {
+        "b": "moiz",
+        "d": 15.0
+      },
+      {
+        "b": "viet",
+        "d": 6.0
+      },
+      {
+        "b": "dylan",
+        "d": 8.25
+      },
+      {
+        "b": "jasmine",
+        "d": 8.25
+      },
+      {
+        "b": "sarbjit",
+        "d": 9.0
+      },
+      {
+        "b": "rona",
+        "d": 15.0
+      },
+      {
+        "b": "fawad",
+        "d": 14.0
+      },
+      {
+        "b": "felix",
+        "d": 12.0
+      },
+      {
+        "b": "abdirahman",
+        "d": 8.0
+      }
+    ],
+    [
+      {
+        "b": "dylan",
+        "d": 13.5
+      },
+      {
+        "b": "abdirahman",
+        "d": 9.0
+      },
+      {
+        "b": "viet",
+        "d": 7.5
+      },
+      {
+        "b": "rona",
+        "d": 18.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 7.5
+      },
+      {
+        "b": "felix",
+        "d": 10.0
+      },
+      {
+        "b": "mandy",
+        "d": 15.0
+      },
+      {
+        "b": "jasmine",
+        "d": 8.25
+      },
+      {
+        "b": "fawad",
+        "d": 12.0
+      },
+      {
+        "b": "moiz",
+        "d": 11.0
+      }
+    ],
+    [
+      {
+        "b": "jasmine",
+        "d": 10.5
+      },
+      {
+        "b": "viet",
+        "d": 6.0
+      },
+      {
+        "b": "rona",
+        "d": 15.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 12.75
+      },
+      {
+        "b": "dylan",
+        "d": 7.5
+      },
+      {
+        "b": "abdirahman",
+        "d": 17.0
+      },
+      {
+        "b": "fawad",
+        "d": 11.0
+      },
+      {
+        "b": "mandy",
+        "d": 8.25
+      },
+      {
+        "b": "moiz",
+        "d": 12.0
+      },
+      {
+        "b": "felix",
+        "d": 12.0
+      }
+    ],
+    [
+      {
+        "b": "fawad",
+        "d": 15.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 12.0
+      },
+      {
+        "b": "viet",
+        "d": 7.0
+      },
+      {
+        "b": "mandy",
+        "d": 4.5
+      },
+      {
+        "b": "abdirahman",
+        "d": 9.0
+      },
+      {
+        "b": "rona",
+        "d": 7.0
+      },
+      {
+        "b": "jasmine",
+        "d": 9.0
+      },
+      {
+        "b": "moiz",
+        "d": 16.0
+      },
+      {
+        "b": "felix",
+        "d": 14.0
+      },
+      {
+        "b": "dylan",
+        "d": 8.25
+      }
+    ],
+    [
+      {
+        "b": "fawad",
+        "d": 16.0
+      },
+      {
+        "b": "viet",
+        "d": 5.5
+      },
+      {
+        "b": "moiz",
+        "d": 15.0
+      },
+      {
+        "b": "felix",
+        "d": 14.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 10.5
+      },
+      {
+        "b": "dylan",
+        "d": 12.75
+      },
+      {
+        "b": "abdirahman",
+        "d": 13.0
+      },
+      {
+        "b": "abdirahman",
+        "e": "p",
+        "s": "puncture! now running on 3 of 4 wheels"
+      },
+      {
+        "b": "rona",
+        "d": 18.0
+      },
+      {
+        "b": "jasmine",
+        "d": 7.5
+      },
+      {
+        "b": "mandy",
+        "d": 10.5
+      }
+    ],
+    [
+      {
+        "b": "dylan",
+        "d": 4.5
+      },
+      {
+        "b": "fawad",
+        "d": 16.0
+      },
+      {
+        "b": "felix",
+        "d": 13.0
+      },
+      {
+        "b": "moiz",
+        "d": 18.0
+      },
+      {
+        "b": "jasmine",
+        "d": 6.0
+      },
+      {
+        "b": "rona",
+        "d": 10.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 10.5
+      },
+      {
+        "b": "viet",
+        "d": 8.0
+      },
+      {
+        "b": "mandy",
+        "d": 10.5
+      },
+      {
+        "b": "abdirahman",
+        "d": 9.75
+      }
+    ],
+    [
+      {
+        "b": "felix",
+        "d": 7.0
+      },
+      {
+        "b": "mandy",
+        "d": 10.5
+      },
+      {
+        "b": "moiz",
+        "d": 9.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 12.75
+      },
+      {
+        "b": "dylan",
+        "d": 8.25
+      },
+      {
+        "b": "jasmine",
+        "d": 8.25
+      },
+      {
+        "b": "fawad",
+        "d": 15.0
+      },
+      {
+        "b": "rona",
+        "d": 12.0
+      },
+      {
+        "b": "abdirahman",
+        "d": 13.5
+      },
+      {
+        "b": "viet",
+        "d": 6.5
+      }
+    ],
+    [
+      {
+        "b": "dylan",
+        "d": 9.75
+      },
+      {
+        "b": "dylan",
+        "e": "p",
+        "s": "puncture! now running on 2 of 4 wheels"
+      },
+      {
+        "b": "abdirahman",
+        "d": 6.75
+      },
+      {
+        "b": "felix",
+        "d": 15.0
+      },
+      {
+        "b": "rona",
+        "d": 15.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 12.0
+      },
+      {
+        "b": "moiz",
+        "d": 11.0
+      },
+      {
+        "b": "mandy",
+        "d": 12.0
+      },
+      {
+        "b": "viet",
+        "d": 9.5
+      },
+      {
+        "b": "fawad",
+        "d": 11.0
+      },
+      {
+        "b": "jasmine",
+        "d": 9.75
+      }
+    ],
+    [
+      {
+        "b": "jasmine",
+        "d": 11.25
+      },
+      {
+        "b": "fawad",
+        "d": 16.0
+      },
+      {
+        "b": "rona",
+        "d": 16.0
+      },
+      {
+        "b": "felix",
+        "d": 13.0
+      },
+      {
+        "b": "viet",
+        "d": 5.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 13.5
+      },
+      {
+        "b": "sarbjit",
+        "e": "p",
+        "s": "puncture! now running on 2 of 4 wheels"
+      },
+      {
+        "b": "dylan",
+        "d": 6.5
+      },
+      {
+        "b": "moiz",
+        "d": 16.0
+      },
+      {
+        "b": "mandy",
+        "d": 7.5
+      },
+      {
+        "b": "abdirahman",
+        "d": 11.25
+      }
+    ],
+    [
+      {
+        "b": "felix",
+        "d": 9.0
+      },
+      {
+        "b": "viet",
+        "d": 7.0
+      },
+      {
+        "b": "jasmine",
+        "d": 13.5
+      },
+      {
+        "b": "rona",
+        "d": 14.0
+      },
+      {
+        "b": "abdirahman",
+        "s": "is out of power (and has no auxillary power)"
+      },
+      {
+        "b": "mandy",
+        "d": 6.75
+      },
+      {
+        "b": "fawad",
+        "d": 14.0
+      },
+      {
+        "b": "dylan",
+        "d": 7.5
+      },
+      {
+        "b": "sarbjit",
+        "d": 7.0
+      },
+      {
+        "b": "moiz",
+        "d": 16.0
+      }
+    ],
+    [
+      {
+        "b": "viet",
+        "s": "is out of power (and has no auxillary power)"
+      },
+      {
+        "b": "sarbjit",
+        "d": 8.0
+      },
+      {
+        "b": "dylan",
+        "d": 7.5
+      },
+      {
+        "b": "moiz",
+        "s": "is out of power (and has no auxillary power)"
+      },
+      {
+        "b": "jasmine",
+        "d": 8.25
+      },
+      {
+        "b": "felix",
+        "d": 16.0
+      },
+      {
+        "b": "mandy",
+        "d": 9.0
+      },
+      {
+        "b": "fawad",
+        "d": 13.0
+      },
+      {
+        "b": "rona",
+        "d": 12.0
+      }
+    ],
+    [
+      {
+        "b": "jasmine",
+        "d": 9.75
+      },
+      {
+        "b": "dylan",
+        "s": "is out of power (and has no auxillary power)"
+      },
+      {
+        "b": "rona",
+        "d": 6.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 3.5
+      },
+      {
+        "b": "felix",
+        "d": 10.0
+      },
+      {
+        "b": "fawad",
+        "d": 11.0
+      },
+      {
+        "b": "mandy",
+        "d": 6.0
+      }
+    ],
+    [
+      {
+        "b": "jasmine",
+        "d": 6.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 7.0
+      },
+      {
+        "b": "mandy",
+        "d": 4.5
+      },
+      {
+        "b": "mandy",
+        "e": "p",
+        "s": "puncture! now running on 2 of 4 wheels"
+      },
+      {
+        "b": "rona",
+        "d": 13.0
+      },
+      {
+        "b": "felix",
+        "d": 15.0
+      },
+      {
+        "b": "fawad",
+        "d": 7.0
+      }
+    ],
+    [
+      {
+        "b": "felix",
+        "d": 14.0
+      },
+      {
+        "b": "jasmine",
+        "s": "is out of power (and has no auxillary power)"
+      },
+      {
+        "b": "rona",
+        "d": 14.0
+      },
+      {
+        "b": "fawad",
+        "d": 12.0
+      },
+      {
+        "b": "mandy",
+        "d": 5.5
+      },
+      {
+        "b": "sarbjit",
+        "d": 7.0
+      }
+    ],
+    [
+      {
+        "b": "rona",
+        "d": 16.0
+      },
+      {
+        "b": "fawad",
+        "d": 10.0
+      },
+      {
+        "b": "mandy",
+        "s": "is out of power (and has no auxillary power)"
+      },
+      {
+        "b": "sarbjit",
+        "d": 5.5
+      },
+      {
+        "b": "felix",
+        "d": 14.0
+      }
+    ],
+    [
+      {
+        "b": "fawad",
+        "d": 10.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 5.0
+      },
+      {
+        "b": "rona",
+        "d": 13.0
+      },
+      {
+        "b": "felix",
+        "d": 16.0
+      }
+    ],
+    [
+      {
+        "b": "rona",
+        "d": 14.0
+      },
+      {
+        "b": "felix",
+        "d": 18.0
+      },
+      {
+        "b": "fawad",
+        "d": 16.0
+      },
+      {
+        "b": "sarbjit",
+        "d": 6.0
+      }
+    ],
+    [
+      {
+        "b": "sarbjit",
+        "d": 5.0
+      },
+      {
+        "b": "felix",
+        "d": 9.0
+      },
+      {
+        "b": "fawad",
+        "d": 12.0
+      },
+      {
+        "b": "rona",
+        "d": 9.0
+      }
+    ],
+    [
+      {
+        "b": "sarbjit",
+        "s": "is out of power (and has no auxillary power)"
+      },
+      {
+        "b": "rona",
+        "d": 15.0
+      },
+      {
+        "b": "fawad",
+        "d": 13.0
+      },
+      {
+        "b": "felix",
+        "d": 13.0
+      }
+    ],
+    [
+      {
+        "b": "fawad",
+        "d": 15.0
+      },
+      {
+        "b": "rona",
+        "d": 9.0
+      },
+      {
+        "b": "felix",
+        "d": 12.0
+      }
+    ],
+    [
+      {
+        "b": "rona",
+        "d": 19.0
+      },
+      {
+        "b": "felix",
+        "d": 14.0
+      },
+      {
+        "b": "fawad",
+        "s": "is out of power (and has no auxillary power)"
+      }
+    ],
+    [
+      {
+        "b": "rona",
+        "d": 13.0
+      },
+      {
+        "b": "felix",
+        "d": 15.0
+      }
+    ],
+    [
+      {
+        "b": "felix",
+        "d": 12.0
+      },
+      {
+        "b": "rona",
+        "d": 14.0
+      }
+    ],
+    [
+      {
+        "b": "felix",
+        "d": 16.0
+      },
+      {
+        "b": "rona",
+        "d": 12.0
+      }
+    ],
+    [
+      {
+        "b": "rona",
+        "d": 13.0
+      },
+      {
+        "b": "felix",
+        "d": 11.0
+      }
+    ],
+    [
+      {
+        "b": "felix",
+        "d": 11.0
+      },
+      {
+        "b": "rona",
+        "d": 13.0
+      }
+    ],
+    [
+      {
+        "b": "rona",
+        "d": 12.0
+      },
+      {
+        "b": "felix",
+        "d": 16.0
+      }
+    ],
+    [
+      {
+        "b": "rona",
+        "d": 17.0
+      },
+      {
+        "b": "felix",
+        "d": 12.0
+      }
+    ],
+    [
+      {
+        "b": "felix",
+        "d": 13.0
+      },
+      {
+        "b": "rona",
+        "d": 14.0
+      },
+      {
+        "b": "rona",
+        "e": "f",
+        "s": "crosses the finish line in FIRST PLACE (2 lap race)"
+      }
+    ],
+    [
+      {
+        "b": "felix",
+        "d": 14.0
+      }
+    ],
+    [
+      {
+        "b": "felix",
+        "d": 8.0
+      }
+    ],
+    [
+      {
+        "b": "felix",
+        "d": 13.0
+      }
+    ],
+    [
+      {
+        "b": "felix",
+        "d": 18.0
+      }
+    ],
+    [
+      {
+        "b": "felix",
+        "d": 7.0
+      },
+      {
+        "b": "felix",
+        "e": "f",
+        "s": "crosses the finish line in SECOND PLACE (2 lap race)"
+      }
+    ]
+  ],
+  "version": "1.0"
+}
